@@ -164,7 +164,68 @@
       }
     },
     {
-      "id": 3,
+      "id": 6,
+      "name": "[PIONEER 2.0] Cancer Modifier Metastasis",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Metastasis",
+              "CONCEPT_CODE": "OMOP4998856",
+              "CONCEPT_ID": 36769180,
+              "CONCEPT_NAME": "Metastasis",
+              "DOMAIN_ID": "Measurement",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "Cancer Modifier"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Staging/Grading",
+              "CONCEPT_CODE": "AJCC/UICC-M1",
+              "CONCEPT_ID": 1635142,
+              "CONCEPT_NAME": "AJCC/UICC M1 Category",
+              "DOMAIN_ID": "Measurement",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "Cancer Modifier"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "name": "[PIONEER 2.0] Metastasis measurement require value",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Clinical Observation",
+              "CONCEPT_CODE": "21907-1",
+              "CONCEPT_ID": 3006575,
+              "CONCEPT_NAME": "Distant metastases.clinical [Class] Cancer",
+              "DOMAIN_ID": "Measurement",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "LOINC"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
       "name": "[PIONEER 2.0] other primaries",
       "expression": {
         "items": [
@@ -474,7 +535,240 @@
       }
     },
     {
-      "id": 4,
+      "id": 11,
+      "name": "[PIONEER V2.0] ADT (LHRH & anti-androgen)",
+      "expression": {
+        "items": [
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "475230",
+              "CONCEPT_ID": 19058410,
+              "CONCEPT_NAME": "degarelix",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "2472778",
+              "CONCEPT_ID": 739471,
+              "CONCEPT_NAME": "relugolix",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "OMOP5040508",
+              "CONCEPT_ID": 35834903,
+              "CONCEPT_NAME": "relugolix",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm Extension"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "38782",
+              "CONCEPT_ID": 1343039,
+              "CONCEPT_NAME": "triptorelin",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "6384",
+              "CONCEPT_ID": 19089810,
+              "CONCEPT_NAME": "gonadorelin",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "50610",
+              "CONCEPT_ID": 1366310,
+              "CONCEPT_NAME": "goserelin",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "42375",
+              "CONCEPT_ID": 1351541,
+              "CONCEPT_NAME": "leuprolide",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "83008",
+              "CONCEPT_ID": 1344381,
+              "CONCEPT_NAME": "bicalutamide",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "3014",
+              "CONCEPT_ID": 19010792,
+              "CONCEPT_NAME": "cyproterone",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "4508",
+              "CONCEPT_ID": 1356461,
+              "CONCEPT_NAME": "flutamide",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "6691",
+              "CONCEPT_ID": 1500211,
+              "CONCEPT_NAME": "medroxyprogesterone",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "6703",
+              "CONCEPT_ID": 1300978,
+              "CONCEPT_NAME": "megestrol",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "31805",
+              "CONCEPT_ID": 1315286,
+              "CONCEPT_NAME": "nilutamide",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Component Class",
+              "CONCEPT_CODE": "45768",
+              "CONCEPT_ID": 35807385,
+              "CONCEPT_NAME": "GnRH agonist",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "HemOnc"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Component Class",
+              "CONCEPT_CODE": "45632",
+              "CONCEPT_ID": 35807349,
+              "CONCEPT_NAME": "GnRH antagonist",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "C",
+              "STANDARD_CONCEPT_CAPTION": "Classification",
+              "VOCABULARY_ID": "HemOnc"
+            },
+            "includeDescendants": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
       "name": "[PIONEER 2.0] orchiectomy",
       "expression": {
         "items": [
@@ -484,21 +778,6 @@
               "CONCEPT_CODE": "386634006",
               "CONCEPT_ID": 4304921,
               "CONCEPT_NAME": "Bilateral orchidectomy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "34426006",
-              "CONCEPT_ID": 4145907,
-              "CONCEPT_NAME": "Orchiectomy of remaining testis",
               "DOMAIN_ID": "Procedure",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -521,6 +800,22 @@
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
             },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Procedure",
+              "CONCEPT_CODE": "112910006",
+              "CONCEPT_ID": 4012324,
+              "CONCEPT_NAME": "Bilateral cryptorchidectomy",
+              "DOMAIN_ID": "Procedure",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "SNOMED"
+            },
+            "isExcluded": true,
             "includeDescendants": true
           },
           {
@@ -781,54 +1076,15 @@
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "112910006",
-              "CONCEPT_ID": 4012324,
-              "CONCEPT_NAME": "Bilateral cryptorchidectomy",
+              "CONCEPT_CODE": "34426006",
+              "CONCEPT_ID": 4145907,
+              "CONCEPT_NAME": "Orchiectomy of remaining testis",
               "DOMAIN_ID": "Procedure",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          }
-        ]
-      }
-    },
-    {
-      "id": 6,
-      "name": "[PIONEER 2.0] Cancer Modifier Metastasis",
-      "expression": {
-        "items": [
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Metastasis",
-              "CONCEPT_CODE": "OMOP4998856",
-              "CONCEPT_ID": 36769180,
-              "CONCEPT_NAME": "Metastasis",
-              "DOMAIN_ID": "Measurement",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "Cancer Modifier"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Staging/Grading",
-              "CONCEPT_CODE": "AJCC/UICC-M1",
-              "CONCEPT_ID": 1635142,
-              "CONCEPT_NAME": "AJCC/UICC M1 Category",
-              "DOMAIN_ID": "Measurement",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "Cancer Modifier"
             },
             "includeDescendants": true
           }
@@ -836,1213 +1092,67 @@
       }
     },
     {
-      "id": 8,
-      "name": "[Pioneer 2.0] Local trt",
+      "id": 14,
+      "name": "[PIONEER V2.0] ARTA class",
       "expression": {
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "90470006",
-              "CONCEPT_ID": 4235738,
-              "CONCEPT_NAME": "Prostatectomy",
-              "DOMAIN_ID": "Procedure",
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "1100072",
+              "CONCEPT_ID": 40239056,
+              "CONCEPT_NAME": "abiraterone",
+              "DOMAIN_ID": "Drug",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "VOCABULARY_ID": "RxNorm"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "4163F",
-              "CONCEPT_ID": 2108677,
-              "CONCEPT_NAME": "Patient counseling at a minimum on all of the following treatment options for clinically localized prostate cancer: active surveillance, and interstitial prostate brachytherapy, and external beam radiotherapy, and radical prostatectomy, provided prior to ",
-              "DOMAIN_ID": "Observation",
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "1999574",
+              "CONCEPT_ID": 963987,
+              "CONCEPT_NAME": "apalutamide",
+              "DOMAIN_ID": "Drug",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
+              "VOCABULARY_ID": "RxNorm"
             },
-            "isExcluded": true,
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "81232004",
-              "CONCEPT_ID": 4216658,
-              "CONCEPT_NAME": "Radical cystoprostatectomy",
-              "DOMAIN_ID": "Procedure",
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "1307298",
+              "CONCEPT_ID": 42900250,
+              "CONCEPT_NAME": "enzalutamide",
+              "DOMAIN_ID": "Drug",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "VOCABULARY_ID": "RxNorm"
             },
-            "isExcluded": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "83154001",
-              "CONCEPT_ID": 4306299,
-              "CONCEPT_NAME": "Excision of lesion of prostate",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "87795007",
-              "CONCEPT_ID": 4338661,
-              "CONCEPT_NAME": "Complete transurethral resection of prostate, including control of postoperative bleeding",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "21360001000004106",
-              "CONCEPT_ID": 3187777,
-              "CONCEPT_NAME": "Cystoscopy with transurethral prostatectomy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "Nebraska Lexicon"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "446445003",
-              "CONCEPT_ID": 40487861,
-              "CONCEPT_NAME": "Endoscopic excision of prostate using holmium laser",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "427985002",
-              "CONCEPT_ID": 4176312,
-              "CONCEPT_NAME": "Endoscopic laser prostatectomy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "314202001",
-              "CONCEPT_ID": 4193061,
-              "CONCEPT_NAME": "Endoscopic resection of prostate using an electrotome",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0VB00ZZ",
-              "CONCEPT_ID": 2777698,
-              "CONCEPT_NAME": "Excision of Prostate, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0VB00ZX",
-              "CONCEPT_ID": 2777697,
-              "CONCEPT_NAME": "Excision of Prostate, Open Approach, Diagnostic",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0VB03ZZ",
-              "CONCEPT_ID": 2777700,
-              "CONCEPT_NAME": "Excision of Prostate, Percutaneous Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0VB03ZX",
-              "CONCEPT_ID": 2777699,
-              "CONCEPT_NAME": "Excision of Prostate, Percutaneous Approach, Diagnostic",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0VB04ZZ",
-              "CONCEPT_ID": 2777702,
-              "CONCEPT_NAME": "Excision of Prostate, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0VB04ZX",
-              "CONCEPT_ID": 2777701,
-              "CONCEPT_NAME": "Excision of Prostate, Percutaneous Endoscopic Approach, Diagnostic",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0VB07ZZ",
-              "CONCEPT_ID": 2777704,
-              "CONCEPT_NAME": "Excision of Prostate, Via Natural or Artificial Opening",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0VB07ZX",
-              "CONCEPT_ID": 2777703,
-              "CONCEPT_NAME": "Excision of Prostate, Via Natural or Artificial Opening, Diagnostic",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0VB08ZZ",
-              "CONCEPT_ID": 2777706,
-              "CONCEPT_NAME": "Excision of Prostate, Via Natural or Artificial Opening Endoscopic",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0VB08ZX",
-              "CONCEPT_ID": 2777705,
-              "CONCEPT_NAME": "Excision of Prostate, Via Natural or Artificial Opening Endoscopic, Diagnostic",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "699075006",
-              "CONCEPT_ID": 44783041,
-              "CONCEPT_NAME": "Holmium laser enucleation of prostate",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "91531008",
-              "CONCEPT_ID": 4239543,
-              "CONCEPT_NAME": "One stage subtotal suprapubic prostatectomy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "4-dig billing code",
-              "CONCEPT_CODE": "60.29",
-              "CONCEPT_ID": 2003966,
-              "CONCEPT_NAME": "Other transurethral prostatectomy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD9Proc"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "176106009",
-              "CONCEPT_ID": 4021570,
-              "CONCEPT_NAME": "Radical cystoprostatourethrectomy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0VT00ZZ",
-              "CONCEPT_ID": 2780477,
-              "CONCEPT_NAME": "Resection of Prostate, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0VT04ZZ",
-              "CONCEPT_ID": 2780478,
-              "CONCEPT_NAME": "Resection of Prostate, Percutaneous Endoscopic Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0VT07ZZ",
-              "CONCEPT_ID": 2780479,
-              "CONCEPT_NAME": "Resection of Prostate, Via Natural or Artificial Opening",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0VT08ZZ",
-              "CONCEPT_ID": 2780480,
-              "CONCEPT_NAME": "Resection of Prostate, Via Natural or Artificial Opening Endoscopic",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "236211007",
-              "CONCEPT_ID": 4341384,
-              "CONCEPT_NAME": "Salvage cystoprostatectomy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "236209003",
-              "CONCEPT_ID": 4341893,
-              "CONCEPT_NAME": "Salvage cystoprostatourethrectomy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "57525009",
-              "CONCEPT_ID": 4212360,
-              "CONCEPT_NAME": "Subtotal perineal prostatectomy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "30426000",
-              "CONCEPT_ID": 4147673,
-              "CONCEPT_NAME": "Subtotal prostatectomy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "19149007",
-              "CONCEPT_ID": 4078386,
-              "CONCEPT_NAME": "Subtotal retropubic prostatectomy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "176288003",
-              "CONCEPT_ID": 4073700,
-              "CONCEPT_NAME": "Transurethral laser prostatectomy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "90199006",
-              "CONCEPT_ID": 4234536,
-              "CONCEPT_NAME": "Transurethral prostatectomy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "68986004",
-              "CONCEPT_ID": 4287859,
-              "CONCEPT_NAME": "Transurethral resection of prostate, first stage of two stages",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "699077003",
-              "CONCEPT_ID": 44783043,
-              "CONCEPT_NAME": "Transurethral thulium laser enucleation of prostate",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "176260009",
-              "CONCEPT_ID": 4071791,
-              "CONCEPT_NAME": "Transvesical two stage prostatectomy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "21190008",
-              "CONCEPT_ID": 4054558,
-              "CONCEPT_NAME": "Two stage subtotal suprapubic prostatectomy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "isExcluded": true,
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "429856001",
-              "CONCEPT_ID": 4330932,
-              "CONCEPT_NAME": "CT of prostate for radiotherapy planning",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "715687002",
-              "CONCEPT_ID": 37396025,
-              "CONCEPT_NAME": "CT of prostate with contrast for radiotherapy planning",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "4200F",
-              "CONCEPT_ID": 2108724,
-              "CONCEPT_NAME": "External beam radiotherapy as primary therapy to prostate with or without nodal irradiation (PRCA)",
-              "DOMAIN_ID": "Observation",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "4201F",
-              "CONCEPT_ID": 2108725,
-              "CONCEPT_NAME": "External beam radiotherapy with or without nodal irradiation as adjuvant or salvage therapy for prostate cancer patient (PRCA)",
-              "DOMAIN_ID": "Observation",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "431850000",
-              "CONCEPT_ID": 4198015,
-              "CONCEPT_NAME": "MRI of prostate for radiotherapy planning",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "HCPCS",
-              "CONCEPT_CODE": "G0458",
-              "CONCEPT_ID": 43533205,
-              "CONCEPT_NAME": "Low dose rate (ldr) prostate brachytherapy services, composite rate",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "HCPCS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "DVY07ZZ",
-              "CONCEPT_ID": 2790073,
-              "CONCEPT_NAME": "Contact Radiation of Prostate",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "DV10B6Z",
-              "CONCEPT_ID": 1781260,
-              "CONCEPT_NAME": "Low Dose Rate (LDR) Brachytherapy of Prostate using Cesium 131 (Cs-131)",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "118164001",
-              "CONCEPT_ID": 4041984,
-              "CONCEPT_NAME": "Laser ablation of prostate",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "DV10BYZ",
-              "CONCEPT_ID": 2789856,
-              "CONCEPT_NAME": "Low Dose Rate (LDR) Brachytherapy of Prostate using Other Isotope",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "DV10BB1",
-              "CONCEPT_ID": 1524039,
-              "CONCEPT_NAME": "Low Dose Rate (LDR) Brachytherapy of Prostate using Palladium 103 (Pd-103), Unidirectional Source",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "726544002",
-              "CONCEPT_ID": 37111533,
-              "CONCEPT_NAME": "Ultrasonography guided transrectal cryoablation of prostate",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "169429005",
-              "CONCEPT_ID": 4061656,
-              "CONCEPT_NAME": "Microwave therapy to prostate",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "DV109YZ",
-              "CONCEPT_ID": 2789850,
-              "CONCEPT_NAME": "High Dose Rate (HDR) Brachytherapy of Prostate using Other Isotope",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "DV10B7Z",
-              "CONCEPT_ID": 2789851,
-              "CONCEPT_NAME": "Low Dose Rate (LDR) Brachytherapy of Prostate using Cesium 137 (Cs-137)",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "DV109BZ",
-              "CONCEPT_ID": 2789848,
-              "CONCEPT_NAME": "High Dose Rate (HDR) Brachytherapy of Prostate using Palladium 103 (Pd-103)",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "DV109CZ",
-              "CONCEPT_ID": 2789849,
-              "CONCEPT_NAME": "High Dose Rate (HDR) Brachytherapy of Prostate using Californium 252 (Cf-252)",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "DV10BBZ",
-              "CONCEPT_ID": 2789854,
-              "CONCEPT_NAME": "Low Dose Rate (LDR) Brachytherapy of Prostate using Palladium 103 (Pd-103)",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "DV10BCZ",
-              "CONCEPT_ID": 2789855,
-              "CONCEPT_NAME": "Low Dose Rate (LDR) Brachytherapy of Prostate using Californium 252 (Cf-252)",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "DV10B8Z",
-              "CONCEPT_ID": 2789852,
-              "CONCEPT_NAME": "Low Dose Rate (LDR) Brachytherapy of Prostate using Iridium 192 (Ir-192)",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "DV10B9Z",
-              "CONCEPT_ID": 2789853,
-              "CONCEPT_NAME": "Low Dose Rate (LDR) Brachytherapy of Prostate using Iodine 125 (I-125)",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "DV1098Z",
-              "CONCEPT_ID": 2789846,
-              "CONCEPT_NAME": "High Dose Rate (HDR) Brachytherapy of Prostate using Iridium 192 (Ir-192)",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "DV1099Z",
-              "CONCEPT_ID": 2789847,
-              "CONCEPT_NAME": "High Dose Rate (HDR) Brachytherapy of Prostate using Iodine 125 (I-125)",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "DV1097Z",
-              "CONCEPT_ID": 2789845,
-              "CONCEPT_NAME": "High Dose Rate (HDR) Brachytherapy of Prostate using Cesium 137 (Cs-137)",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "55880",
-              "CONCEPT_ID": 759648,
-              "CONCEPT_NAME": "Ablation of malignant prostate tissue, transrectal, with high intensity-focused ultrasound (HIFU), including ultrasound guidance",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "176319004",
-              "CONCEPT_ID": 4073126,
-              "CONCEPT_NAME": "Cryotherapy to prostate via perineal probe",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "55875",
-              "CONCEPT_ID": 2110047,
-              "CONCEPT_NAME": "Transperineal placement of needles or catheters into prostate for interstitial radioelement application, with or without cystoscopy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "726544002",
-              "CONCEPT_ID": 37111533,
-              "CONCEPT_NAME": "Ultrasonography guided transrectal cryoablation of prostate",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "55873",
-              "CONCEPT_ID": 2110046,
-              "CONCEPT_NAME": "Cryosurgical ablation of the prostate (includes ultrasonic guidance and monitoring)",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "55821",
-              "CONCEPT_ID": 2110035,
-              "CONCEPT_NAME": "Prostatectomy (including control of postoperative bleeding, vasectomy, meatotomy, urethral calibration and/or dilation, and internal urethrotomy); suprapubic, subtotal, 1 or 2 stages",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "4164F",
-              "CONCEPT_ID": 2108678,
-              "CONCEPT_NAME": "Adjuvant (ie, in combination with external beam radiotherapy to the prostate for prostate cancer) hormonal therapy (gonadotropin-releasing hormone [GnRH] agonist or antagonist) prescribed/administered (PRCA)",
-              "DOMAIN_ID": "Observation",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
-            },
             "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "00908",
-              "CONCEPT_ID": 2101059,
-              "CONCEPT_NAME": "Anesthesia for; perineal prostatectomy",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "0VB00ZZ",
-              "CONCEPT_ID": 2777698,
-              "CONCEPT_NAME": "Excision of Prostate, Open Approach",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Procedure",
-              "CONCEPT_CODE": "446941000",
-              "CONCEPT_ID": 40490346,
-              "CONCEPT_NAME": "Transrectal high intensity focused ultrasound ablation of prostate",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "55865",
-              "CONCEPT_ID": 2110043,
-              "CONCEPT_NAME": "Exposure of prostate, any approach, for insertion of radioactive substance; with bilateral pelvic lymphadenectomy, including external iliac, hypogastric and obturator nodes",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "ICD10PCS",
-              "CONCEPT_CODE": "DV002ZZ",
-              "CONCEPT_ID": 2789830,
-              "CONCEPT_NAME": "Beam Radiation of Prostate using Photons >10 MeV",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "ICD10PCS"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "0582T",
-              "CONCEPT_ID": 709928,
-              "CONCEPT_NAME": "Transurethral ablation of malignant prostate tissue by high-energy water vapor thermotherapy, including intraoperative imaging and needle guidance",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
-            }
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "52612",
-              "CONCEPT_ID": 42733763,
-              "CONCEPT_NAME": "Transurethral resection of prostate; first stage of two-stage resection (partial resection) (Deprecated)",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
-            }
           },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "CPT4",
-              "CONCEPT_CODE": "52614",
-              "CONCEPT_ID": 42733764,
-              "CONCEPT_NAME": "Transurethral resection of prostate; second stage of two-stage resection (resection completed) (Deprecated)",
-              "DOMAIN_ID": "Procedure",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "CPT4"
-            }
-          }
-        ]
-      }
-    },
-    {
-      "id": 9,
-      "name": "[PIONEER 2.0] Metastasis measurement require value",
-      "expression": {
-        "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Clinical Observation",
-              "CONCEPT_CODE": "21907-1",
-              "CONCEPT_ID": 3006575,
-              "CONCEPT_NAME": "Distant metastases.clinical [Class] Cancer",
-              "DOMAIN_ID": "Measurement",
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "2180325",
+              "CONCEPT_ID": 1361291,
+              "CONCEPT_NAME": "darolutamide",
+              "DOMAIN_ID": "Drug",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "LOINC"
+              "VOCABULARY_ID": "RxNorm"
             },
             "includeDescendants": true
           }
@@ -2050,16 +1160,16 @@
       }
     },
     {
-      "id": 10,
-      "name": "[PIONEER V2.0] ADT (LHRH & anti-androgen)",
+      "id": 15,
+      "name": "[PIONEER V2.0] Chemotherapy (docetaxel & cabazitaxe & paclitaxel) class",
       "expression": {
         "items": [
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "475230",
-              "CONCEPT_ID": 19058410,
-              "CONCEPT_NAME": "degarelix",
+              "CONCEPT_CODE": "72962",
+              "CONCEPT_ID": 1315942,
+              "CONCEPT_NAME": "docetaxel",
               "DOMAIN_ID": "Drug",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -2072,9 +1182,9 @@
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "2472778",
-              "CONCEPT_ID": 739471,
-              "CONCEPT_NAME": "relugolix",
+              "CONCEPT_CODE": "996051",
+              "CONCEPT_ID": 40222431,
+              "CONCEPT_NAME": "cabazitaxel",
               "DOMAIN_ID": "Drug",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
@@ -2087,195 +1197,15 @@
           {
             "concept": {
               "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "OMOP5040508",
-              "CONCEPT_ID": 35834903,
-              "CONCEPT_NAME": "relugolix",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "RxNorm Extension"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "38782",
-              "CONCEPT_ID": 1343039,
-              "CONCEPT_NAME": "triptorelin",
+              "CONCEPT_CODE": "56946",
+              "CONCEPT_ID": 1378382,
+              "CONCEPT_NAME": "paclitaxel",
               "DOMAIN_ID": "Drug",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
               "VOCABULARY_ID": "RxNorm"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "6384",
-              "CONCEPT_ID": 19089810,
-              "CONCEPT_NAME": "gonadorelin",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "RxNorm"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "50610",
-              "CONCEPT_ID": 1366310,
-              "CONCEPT_NAME": "goserelin",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "RxNorm"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "42375",
-              "CONCEPT_ID": 1351541,
-              "CONCEPT_NAME": "leuprolide",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "RxNorm"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "83008",
-              "CONCEPT_ID": 1344381,
-              "CONCEPT_NAME": "bicalutamide",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "RxNorm"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "3014",
-              "CONCEPT_ID": 19010792,
-              "CONCEPT_NAME": "cyproterone",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "RxNorm"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "4508",
-              "CONCEPT_ID": 1356461,
-              "CONCEPT_NAME": "flutamide",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "RxNorm"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "6691",
-              "CONCEPT_ID": 1500211,
-              "CONCEPT_NAME": "medroxyprogesterone",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "RxNorm"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "6703",
-              "CONCEPT_ID": 1300978,
-              "CONCEPT_NAME": "megestrol",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "RxNorm"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Ingredient",
-              "CONCEPT_CODE": "31805",
-              "CONCEPT_ID": 1315286,
-              "CONCEPT_NAME": "nilutamide",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "S",
-              "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "RxNorm"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Component Class",
-              "CONCEPT_CODE": "45768",
-              "CONCEPT_ID": 35807385,
-              "CONCEPT_NAME": "GnRH agonist",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "C",
-              "STANDARD_CONCEPT_CAPTION": "Classification",
-              "VOCABULARY_ID": "HemOnc"
-            },
-            "includeDescendants": true
-          },
-          {
-            "concept": {
-              "CONCEPT_CLASS_ID": "Component Class",
-              "CONCEPT_CODE": "45632",
-              "CONCEPT_ID": 35807349,
-              "CONCEPT_NAME": "GnRH antagonist",
-              "DOMAIN_ID": "Drug",
-              "INVALID_REASON": "V",
-              "INVALID_REASON_CAPTION": "Valid",
-              "STANDARD_CONCEPT": "C",
-              "STANDARD_CONCEPT_CAPTION": "Classification",
-              "VOCABULARY_ID": "HemOnc"
             },
             "includeDescendants": true
           }
@@ -2283,37 +1213,82 @@
       }
     },
     {
-      "id": 11,
-      "name": "[PIONEER 2.0] Hx of prostate cancer",
+      "id": 16,
+      "name": "[PIONEER 2.0] ADT+meds",
       "expression": {
         "items": [
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Context-dependent",
-              "CONCEPT_CODE": "4220001000004104",
-              "CONCEPT_ID": 3169330,
-              "CONCEPT_NAME": "Personal history of prostate cancer",
-              "DOMAIN_ID": "Observation",
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "1100072",
+              "CONCEPT_ID": 40239056,
+              "CONCEPT_NAME": "abiraterone",
+              "DOMAIN_ID": "Drug",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "Nebraska Lexicon"
+              "VOCABULARY_ID": "RxNorm"
             },
             "includeDescendants": true
           },
           {
             "concept": {
-              "CONCEPT_CLASS_ID": "Context-dependent",
-              "CONCEPT_CODE": "428262008",
-              "CONCEPT_ID": 4180749,
-              "CONCEPT_NAME": "History of malignant neoplasm of prostate",
-              "DOMAIN_ID": "Observation",
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "1999574",
+              "CONCEPT_ID": 963987,
+              "CONCEPT_NAME": "apalutamide",
+              "DOMAIN_ID": "Drug",
               "INVALID_REASON": "V",
               "INVALID_REASON_CAPTION": "Valid",
               "STANDARD_CONCEPT": "S",
               "STANDARD_CONCEPT_CAPTION": "Standard",
-              "VOCABULARY_ID": "SNOMED"
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "2180325",
+              "CONCEPT_ID": 1361291,
+              "CONCEPT_NAME": "darolutamide",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "72962",
+              "CONCEPT_ID": 1315942,
+              "CONCEPT_NAME": "docetaxel",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
+            },
+            "includeDescendants": true
+          },
+          {
+            "concept": {
+              "CONCEPT_CLASS_ID": "Ingredient",
+              "CONCEPT_CODE": "1307298",
+              "CONCEPT_ID": 42900250,
+              "CONCEPT_NAME": "enzalutamide",
+              "DOMAIN_ID": "Drug",
+              "INVALID_REASON": "V",
+              "INVALID_REASON_CAPTION": "Valid",
+              "STANDARD_CONCEPT": "S",
+              "STANDARD_CONCEPT_CAPTION": "Standard",
+              "VOCABULARY_ID": "RxNorm"
             },
             "includeDescendants": true
           }
@@ -2324,19 +1299,61 @@
   "PrimaryCriteria": {
     "CriteriaList": [
       {
-        "ConditionOccurrence": {
+        "DrugExposure": {
+          "CodesetId": 11,
+          "OccurrenceStartDate": {
+            "Value": "2016-01-01",
+            "Extent": "2020-12-31",
+            "Op": "bt"
+          }
+        }
+      },
+      {
+        "ProcedureOccurrence": {
+          "CodesetId": 13,
+          "OccurrenceStartDate": {
+            "Value": "2016-01-01",
+            "Extent": "2020-12-31",
+            "Op": "bt"
+          }
+        }
+      },
+      {
+        "DrugExposure": {
           "CorrelatedCriteria": {
-            "Type": "ALL",
+            "Type": "ANY",
             "CriteriaList": [
               {
                 "Criteria": {
-                  "ConditionOccurrence": {
-                    "CodesetId": 1
+                  "DrugExposure": {
+                    "CodesetId": 11
                   }
                 },
                 "StartWindow": {
                   "Start": {
-                    "Days": 1,
+                    "Days": 0,
+                    "Coeff": 1
+                  },
+                  "End": {
+                    "Days": 183,
+                    "Coeff": 1
+                  },
+                  "UseEventEnd": false
+                },
+                "Occurrence": {
+                  "Type": 2,
+                  "Count": 1
+                }
+              },
+              {
+                "Criteria": {
+                  "ProcedureOccurrence": {
+                    "CodesetId": 13
+                  }
+                },
+                "StartWindow": {
+                  "Start": {
+                    "Days": 0,
                     "Coeff": 1
                   },
                   "End": {
@@ -2354,77 +1371,18 @@
             "DemographicCriteriaList": [],
             "Groups": []
           },
-          "CodesetId": 1,
-          "OccurrenceStartDate": {
-            "Value": "2016-01-01",
-            "Extent": "2020-12-31",
-            "Op": "bt"
-          },
-          "First": true
-        }
-      },
-      {
-        "Measurement": {
-          "CodesetId": 6,
+          "CodesetId": 16,
           "OccurrenceStartDate": {
             "Value": "2016-01-01",
             "Extent": "2020-12-31",
             "Op": "bt"
           }
         }
-      },
-      {
-        "Measurement": {
-          "CodesetId": 9,
-          "OccurrenceStartDate": {
-            "Value": "2016-01-01",
-            "Extent": "2020-12-31",
-            "Op": "bt"
-          },
-          "ValueAsConcept": [
-            {
-              "CONCEPT_CODE": "LA4625-5",
-              "CONCEPT_ID": 45878386,
-              "CONCEPT_NAME": "M1C",
-              "DOMAIN_ID": "Meas Value",
-              "INVALID_REASON_CAPTION": "Unknown",
-              "STANDARD_CONCEPT_CAPTION": "Unknown",
-              "VOCABULARY_ID": "LOINC"
-            },
-            {
-              "CONCEPT_CODE": "LA4626-3",
-              "CONCEPT_ID": 45881618,
-              "CONCEPT_NAME": "M1B",
-              "DOMAIN_ID": "Meas Value",
-              "INVALID_REASON_CAPTION": "Unknown",
-              "STANDARD_CONCEPT_CAPTION": "Unknown",
-              "VOCABULARY_ID": "LOINC"
-            },
-            {
-              "CONCEPT_CODE": "LA4627-1",
-              "CONCEPT_ID": 45882500,
-              "CONCEPT_NAME": "M1A",
-              "DOMAIN_ID": "Meas Value",
-              "INVALID_REASON_CAPTION": "Unknown",
-              "STANDARD_CONCEPT_CAPTION": "Unknown",
-              "VOCABULARY_ID": "LOINC"
-            },
-            {
-              "CONCEPT_CODE": "LA4628-9",
-              "CONCEPT_ID": 45876322,
-              "CONCEPT_NAME": "M1",
-              "DOMAIN_ID": "Meas Value",
-              "INVALID_REASON_CAPTION": "Unknown",
-              "STANDARD_CONCEPT_CAPTION": "Unknown",
-              "VOCABULARY_ID": "LOINC"
-            }
-          ]
-        }
       }
     ],
     "ObservationWindow": {
       "PriorDays": 183,
-      "PostDays": 0
+      "PostDays": 183
     },
     "PrimaryCriteriaLimit": {
       "Type": "First"
@@ -2477,6 +1435,214 @@
       }
     },
     {
+      "name": "metastasis ",
+      "expression": {
+        "Type": "ALL",
+        "CriteriaList": [],
+        "DemographicCriteriaList": [],
+        "Groups": [
+          {
+            "Type": "ANY",
+            "CriteriaList": [
+              {
+                "Criteria": {
+                  "ConditionOccurrence": {
+                    "CorrelatedCriteria": {
+                      "Type": "ALL",
+                      "CriteriaList": [
+                        {
+                          "Criteria": {
+                            "ConditionOccurrence": {
+                              "CodesetId": 2
+                            }
+                          },
+                          "StartWindow": {
+                            "Start": {
+                              "Coeff": -1
+                            },
+                            "End": {
+                              "Days": 30,
+                              "Coeff": 1
+                            },
+                            "UseEventEnd": false
+                          },
+                          "Occurrence": {
+                            "Type": 2,
+                            "Count": 1
+                          }
+                        }
+                      ],
+                      "DemographicCriteriaList": [],
+                      "Groups": []
+                    },
+                    "CodesetId": 1,
+                    "First": true
+                  }
+                },
+                "StartWindow": {
+                  "Start": {
+                    "Days": 183,
+                    "Coeff": -1
+                  },
+                  "End": {
+                    "Days": 30,
+                    "Coeff": 1
+                  },
+                  "UseEventEnd": false
+                },
+                "Occurrence": {
+                  "Type": 2,
+                  "Count": 1
+                }
+              },
+              {
+                "Criteria": {
+                  "Measurement": {
+                    "CorrelatedCriteria": {
+                      "Type": "ALL",
+                      "CriteriaList": [
+                        {
+                          "Criteria": {
+                            "ConditionOccurrence": {
+                              "CodesetId": 2
+                            }
+                          },
+                          "StartWindow": {
+                            "Start": {
+                              "Coeff": -1
+                            },
+                            "End": {
+                              "Days": 30,
+                              "Coeff": 1
+                            },
+                            "UseEventEnd": false
+                          },
+                          "Occurrence": {
+                            "Type": 2,
+                            "Count": 1
+                          }
+                        }
+                      ],
+                      "DemographicCriteriaList": [],
+                      "Groups": []
+                    },
+                    "CodesetId": 7,
+                    "First": true,
+                    "ValueAsConcept": [
+                      {
+                        "CONCEPT_CODE": "LA4625-5",
+                        "CONCEPT_ID": 45878386,
+                        "CONCEPT_NAME": "M1C",
+                        "DOMAIN_ID": "Meas Value",
+                        "INVALID_REASON_CAPTION": "Unknown",
+                        "STANDARD_CONCEPT_CAPTION": "Unknown",
+                        "VOCABULARY_ID": "LOINC"
+                      },
+                      {
+                        "CONCEPT_CODE": "LA4626-3",
+                        "CONCEPT_ID": 45881618,
+                        "CONCEPT_NAME": "M1B",
+                        "DOMAIN_ID": "Meas Value",
+                        "INVALID_REASON_CAPTION": "Unknown",
+                        "STANDARD_CONCEPT_CAPTION": "Unknown",
+                        "VOCABULARY_ID": "LOINC"
+                      },
+                      {
+                        "CONCEPT_CODE": "LA4627-1",
+                        "CONCEPT_ID": 45882500,
+                        "CONCEPT_NAME": "M1A",
+                        "DOMAIN_ID": "Meas Value",
+                        "INVALID_REASON_CAPTION": "Unknown",
+                        "STANDARD_CONCEPT_CAPTION": "Unknown",
+                        "VOCABULARY_ID": "LOINC"
+                      },
+                      {
+                        "CONCEPT_CODE": "LA4628-9",
+                        "CONCEPT_ID": 45876322,
+                        "CONCEPT_NAME": "M1",
+                        "DOMAIN_ID": "Meas Value",
+                        "INVALID_REASON_CAPTION": "Unknown",
+                        "STANDARD_CONCEPT_CAPTION": "Unknown",
+                        "VOCABULARY_ID": "LOINC"
+                      }
+                    ]
+                  }
+                },
+                "StartWindow": {
+                  "Start": {
+                    "Days": 183,
+                    "Coeff": -1
+                  },
+                  "End": {
+                    "Days": 30,
+                    "Coeff": 1
+                  },
+                  "UseEventEnd": false
+                },
+                "Occurrence": {
+                  "Type": 2,
+                  "Count": 1
+                }
+              },
+              {
+                "Criteria": {
+                  "Measurement": {
+                    "CorrelatedCriteria": {
+                      "Type": "ALL",
+                      "CriteriaList": [
+                        {
+                          "Criteria": {
+                            "ConditionOccurrence": {
+                              "CodesetId": 2
+                            }
+                          },
+                          "StartWindow": {
+                            "Start": {
+                              "Coeff": -1
+                            },
+                            "End": {
+                              "Days": 30,
+                              "Coeff": 1
+                            },
+                            "UseEventEnd": false
+                          },
+                          "Occurrence": {
+                            "Type": 2,
+                            "Count": 1
+                          }
+                        }
+                      ],
+                      "DemographicCriteriaList": [],
+                      "Groups": []
+                    },
+                    "CodesetId": 6,
+                    "First": true
+                  }
+                },
+                "StartWindow": {
+                  "Start": {
+                    "Days": 183,
+                    "Coeff": -1
+                  },
+                  "End": {
+                    "Days": 30,
+                    "Coeff": 1
+                  },
+                  "UseEventEnd": false
+                },
+                "Occurrence": {
+                  "Type": 2,
+                  "Count": 1
+                }
+              }
+            ],
+            "DemographicCriteriaList": [],
+            "Groups": []
+          }
+        ]
+      }
+    },
+    {
       "name": "No other primary",
       "expression": {
         "Type": "ALL",
@@ -2484,7 +1650,7 @@
           {
             "Criteria": {
               "ConditionOccurrence": {
-                "CodesetId": 3
+                "CodesetId": 10
               }
             },
             "StartWindow": {
@@ -2505,7 +1671,7 @@
           {
             "Criteria": {
               "Observation": {
-                "CodesetId": 3
+                "CodesetId": 10
               }
             },
             "StartWindow": {
@@ -2529,201 +1695,108 @@
       }
     },
     {
-      "name": "synchronous or metachronous",
+      "name": "No prior ARTA and Chemo treatment and no ADT  6 months prior ",
       "expression": {
-        "Type": "ANY",
-        "CriteriaList": [],
-        "DemographicCriteriaList": [],
-        "Groups": [
+        "Type": "ALL",
+        "CriteriaList": [
           {
-            "Type": "ALL",
-            "CriteriaList": [
-              {
-                "Criteria": {
-                  "ConditionOccurrence": {
-                    "CorrelatedCriteria": {
-                      "Type": "ALL",
-                      "CriteriaList": [
-                        {
-                          "Criteria": {
-                            "Observation": {
-                              "CodesetId": 11
-                            }
-                          },
-                          "StartWindow": {
-                            "Start": {
-                              "Coeff": -1
-                            },
-                            "End": {
-                              "Days": 1,
-                              "Coeff": -1
-                            },
-                            "UseEventEnd": false
-                          },
-                          "Occurrence": {
-                            "Type": 0,
-                            "Count": 0
-                          }
-                        }
-                      ],
-                      "DemographicCriteriaList": [],
-                      "Groups": []
-                    },
-                    "CodesetId": 2,
-                    "First": true
-                  }
-                },
-                "StartWindow": {
-                  "Start": {
-                    "Days": 183,
-                    "Coeff": -1
-                  },
-                  "End": {
-                    "Days": 30,
-                    "Coeff": 1
-                  },
-                  "UseEventEnd": false
-                },
-                "Occurrence": {
-                  "Type": 2,
-                  "Count": 1
-                }
+            "Criteria": {
+              "DrugExposure": {
+                "CodesetId": 14
               }
-            ],
-            "DemographicCriteriaList": [],
-            "Groups": []
+            },
+            "StartWindow": {
+              "Start": {
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 1,
+                "Coeff": -1
+              },
+              "UseEventEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Occurrence": {
+              "Type": 0,
+              "Count": 0
+            }
           },
           {
-            "Type": "ALL",
-            "CriteriaList": [
-              {
-                "Criteria": {
-                  "ConditionOccurrence": {
-                    "CodesetId": 2
-                  }
-                },
-                "StartWindow": {
-                  "Start": {
-                    "Coeff": -1
-                  },
-                  "End": {
-                    "Days": 30,
-                    "Coeff": 1
-                  },
-                  "UseEventEnd": false
-                },
-                "Occurrence": {
-                  "Type": 2,
-                  "Count": 1
-                }
-              },
-              {
-                "Criteria": {
-                  "ProcedureOccurrence": {
-                    "CodesetId": 4
-                  }
-                },
-                "StartWindow": {
-                  "Start": {
-                    "Coeff": -1
-                  },
-                  "End": {
-                    "Days": 1,
-                    "Coeff": -1
-                  },
-                  "UseEventEnd": false
-                },
-                "Occurrence": {
-                  "Type": 0,
-                  "Count": 0
-                }
-              },
-              {
-                "Criteria": {
-                  "DrugExposure": {
-                    "CodesetId": 10
-                  }
-                },
-                "StartWindow": {
-                  "Start": {
-                    "Days": 183,
-                    "Coeff": -1
-                  },
-                  "End": {
-                    "Days": 1,
-                    "Coeff": -1
-                  },
-                  "UseEventEnd": false
-                },
-                "Occurrence": {
-                  "Type": 0,
-                  "Count": 0
-                }
+            "Criteria": {
+              "DrugExposure": {
+                "CodesetId": 15
               }
-            ],
-            "DemographicCriteriaList": [],
-            "Groups": [
-              {
-                "Type": "ANY",
-                "CriteriaList": [
-                  {
-                    "Criteria": {
-                      "Observation": {
-                        "CodesetId": 8
-                      }
-                    },
-                    "StartWindow": {
-                      "Start": {
-                        "Coeff": -1
-                      },
-                      "End": {
-                        "Days": 184,
-                        "Coeff": -1
-                      },
-                      "UseEventEnd": false
-                    },
-                    "IgnoreObservationPeriod": true,
-                    "Occurrence": {
-                      "Type": 2,
-                      "Count": 1
-                    }
-                  },
-                  {
-                    "Criteria": {
-                      "ProcedureOccurrence": {
-                        "CodesetId": 8
-                      }
-                    },
-                    "StartWindow": {
-                      "Start": {
-                        "Coeff": -1
-                      },
-                      "End": {
-                        "Days": 184,
-                        "Coeff": -1
-                      },
-                      "UseEventEnd": false
-                    },
-                    "IgnoreObservationPeriod": true,
-                    "Occurrence": {
-                      "Type": 2,
-                      "Count": 1
-                    }
-                  }
-                ],
-                "DemographicCriteriaList": [],
-                "Groups": []
+            },
+            "StartWindow": {
+              "Start": {
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 1,
+                "Coeff": -1
+              },
+              "UseEventEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Occurrence": {
+              "Type": 0,
+              "Count": 0
+            }
+          },
+          {
+            "Criteria": {
+              "DrugExposure": {
+                "CodesetId": 11
               }
-            ]
+            },
+            "StartWindow": {
+              "Start": {
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 183,
+                "Coeff": -1
+              },
+              "UseEventEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Occurrence": {
+              "Type": 0,
+              "Count": 0
+            }
+          },
+          {
+            "Criteria": {
+              "ProcedureOccurrence": {
+                "CodesetId": 13
+              }
+            },
+            "StartWindow": {
+              "Start": {
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 183,
+                "Coeff": -1
+              },
+              "UseEventEnd": false
+            },
+            "IgnoreObservationPeriod": true,
+            "Occurrence": {
+              "Type": 0,
+              "Count": 0
+            }
           }
-        ]
+        ],
+        "DemographicCriteriaList": [],
+        "Groups": []
       }
     }
   ],
   "CensoringCriteria": [
     {
       "ConditionOccurrence": {
-        "CodesetId": 3
+        "CodesetId": 10
       }
     }
   ],
