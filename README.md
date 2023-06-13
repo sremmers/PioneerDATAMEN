@@ -42,7 +42,8 @@ How to run
 	connectionDetails <- DatabaseConnector::createConnectionDetails(dbms = "postgresql",
 									server = "some.server.com/ohdsi",
 									user = "joe",
-									password = "secret")
+									password = "secret",
+									pathToDriver =" path to local JDBC driver")
 	
 	# The name of the database schema where the CDM data can be found:
 	cdmDatabaseSchema <- "cdm_synpuf"
