@@ -74,19 +74,12 @@ How to run
             packageResults = TRUE,
             maxCores = maxCores)
 	```
-
-4. Upload the file ```export/Results_<DatabaseId>.zip``` in the output folder to the study coordinator:
-
-	```r
-	uploadResults(outputFolder, privateKeyFileName = "<file>", userName = "<name>")
-	```
-	
-	Where ```<file>``` and ```<name<``` are the credentials provided to you personally by the study coordinator.
+ 
 		
-5. To view the results, use the Shiny app:
+4. To view the results, use the Shiny app:
 
 	```r
-	launchDiagnosticsExplorer()
+	CohortDiagnostics::launchDiagnosticsExplorer()
 	```
   
   Note that you can save plots from within the Shiny app. 
