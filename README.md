@@ -18,8 +18,10 @@ How to run
 2. Open your study package in RStudio. Use the following code to install all the dependencies:
 
 	```r
-	#For windows users, you need to first execute this command:
+	#For windows users, you need to first execute this first command:
 	Sys.setenv(RENV_DOWNLOAD_FILE_METHOD = "libcurl")
+	
+	
 	renv::restore()
 	```
 
