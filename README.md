@@ -100,3 +100,9 @@ PioneerMetastaticAE was developed in ATLAS and R Studio.
 ### Development status
 
 Under development
+
+### Citation
+Please do not forget to cite when using the results of the package
+Gilbert J, Rao G, Schuemie M, Ryan P, Weaver J (2023). CohortDiagnostics: Diagnostics for OHDSI Cohorts. https://ohdsi.github.io/CohortDiagnostics, https://github.com/OHDSI/CohortDiagnostics.
+
+
