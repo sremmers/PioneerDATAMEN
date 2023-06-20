@@ -47,17 +47,12 @@ PioneerMetastaticAE::execute(
   databaseName = databaseName,
   databaseDescription = databaseDescription
 )
+# if you want to view the shiny app locally, uncomment the following section
+# CohortDiagnostics::createMergedResultsFile(
+#  dataFolder = outputFolder,
+#  sqliteDbPath = file.path(outputFolder,
+#                           "MergedCohortDiagnosticsData.sqlite")
+#)
+#CohortDiagnostics::launchDiagnosticsExplorer(dataFolder = outputFolder)
 
-CohortDiagnostics::createMergedResultsFile(
-  dataFolder = outputFolder,
-  sqliteDbPath = file.path(outputFolder,
-                           "MergedCohortDiagnosticsData.sqlite")
-)
 
-CohortDiagnostics::launchDiagnosticsExplorer(dataFolder = outputFolder)
-
-
-# Upload the results to the OHDSI SFTP server:
-privateKeyFileName <- ""
-userName <- ""
-PioneerMetastaticAE::uploadResults(outputFolder, privateKeyFileName, userName)
