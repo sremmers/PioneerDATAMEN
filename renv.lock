@@ -592,6 +592,12 @@
 			"Version" : "1.7.4",
 			"Source" : "Repository",
 			"Repository" : "CRAN"
+		},
+		"survival" : {
+			"Package" : "survival",
+			"Version" : "3.4.0",
+			"Source" : "Repository",
+			"Repository" : "CRAN"
 		}
 	}
 }
