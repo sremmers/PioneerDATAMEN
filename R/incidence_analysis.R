@@ -51,9 +51,8 @@ execute_IR <- function(connectionDetails,
                        cohortDatabaseSchema = cdmDatabaseSchema,
                        cohortTable = "cohort",
                        tempEmulationSchema = getOption("sqlRenderTempEmulationSchema"),
-                       outputFolder,
                        databaseId = databaseId,
-					   outputFolderIR) 
+		       outputFolderIR) 
 {
 # the csv where the analysis settings are
 IRsettings = read.csv("./inst/settings/IRsettings.csv")
