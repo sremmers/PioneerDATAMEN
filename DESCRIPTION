@@ -21,6 +21,7 @@ Imports:
   digest,
   dplyr (>= 1.0.0),
   methods,
+  survival,
   ParallelLogger (>= 3.0.0),
   readr (>= 2.1.0),
   RJSONIO,
