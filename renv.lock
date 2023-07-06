@@ -593,9 +593,9 @@
 			"Source" : "Repository",
 			"Repository" : "CRAN"
 		},
-		"survival" : {
+		 "survival" : {
 			"Package" : "survival",
-			"Version" : "3.4.0",
+			"Version" : "3.5-5",
 			"Source" : "Repository",
 			"Repository" : "CRAN"
 		}
