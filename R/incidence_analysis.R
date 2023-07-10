@@ -51,8 +51,9 @@ execute_IR <- function(connectionDetails,
                        cohortDatabaseSchema = cdmDatabaseSchema,
                        cohortTable = "cohort",
                        tempEmulationSchema = getOption("sqlRenderTempEmulationSchema"),
+                       outputFolder,
                        databaseId = databaseId,
-		       outputFolderIR) 
+					   outputFolderIR) 
 {
 # the csv where the analysis settings are
 IRsettings = read.csv("./inst/settings/IRsettings.csv")
@@ -182,23 +183,29 @@ cut_and_aggregate = function(df, breaks_age = c(55, 70, 80)){
   
   target_id  <- unique(IRsettings$target_id)
   outcome_id <- unique(IRsettings$outcome_id)
+  total_iterations <- nrow(IRsettings)
+
   for(i in 1:length(target_id)){
     target <- sql_translate_target(sql = sql_target, target_id = target_id[i]) %>% get_data
 	if(nrow(target)==0)
 	{
+	print(paste("No data for cohort:", target_id[i]))
 	next
 	}
 	OutcomeList=IRsettings[IRsettings$target_id==target_id[i],]
     for(j in 1:nrow(OutcomeList))
 	{
+	  iteration_number <- (i - 1) * nrow(OutcomeList) + j
       if(OutcomeList$chronic[j]==1)
 		{
            outcome <- sql_translate_ae(sql = sql_outcome,target_id=target_id[i], outcome_id = OutcomeList$outcome_id[j]) %>% get_data
 		   
 		   if(nrow(outcome)==0)
 			{
+			print(paste("No outcomes for cohort:", target_id[i],"and outcome:",OutcomeList$outcome_id[j]))
 			next
 			}
+			print(paste( " Calculating incidence for target:", target_id[i],"and outcome:", OutcomeList$outcome_id[j]))
 			ds <- data_prep(ae = outcome, target = target)
 
 			ds_split <- survival::survSplit(Surv(ds$studytime, ds$count) ~ 1, data = ds, cut = c(0.25, 0.5, 0.75, 1, 1.25, 1.5, 1.75, 2, 2.5, 3),zero=-0.1)
@@ -234,8 +241,10 @@ cut_and_aggregate = function(df, breaks_age = c(55, 70, 80)){
            outcome <- sql_translate_ae(sql = sql_all,target_id=target_id[i], outcome_id = OutcomeList$outcome_id[j]) %>% get_data
 		     if(nrow(outcome)==0)
 		   {
+		   print(paste("No outcomes for cohort:", target_id[i],"and outcome:",OutcomeList$outcome_id[j]))
 		   next
 		   }
+    print(paste( " Calculating incidence for target:", target_id[i],"and outcome:", OutcomeList$outcome_id[j]))
 	ds <- data_prep(ae = outcome, target = target)
 	ds_ir     <- cbind(cut_and_aggregate(ds),databaseId)
 	csv_file <- paste0(outputFolderIR,"/episodic.csv")
@@ -246,8 +255,8 @@ cut_and_aggregate = function(df, breaks_age = c(55, 70, 80)){
 				}     
 		}
     
-   }
-  }
+
+   }}
  
           
  		
