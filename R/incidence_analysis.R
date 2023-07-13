@@ -263,7 +263,8 @@ cut_and_aggregate = function(df, breaks_age = c(55, 70, 80)){
 		   print(paste("No outcomes for cohort:", target_id[i],"and outcome:",OutcomeList$outcome_id[j]))
 		   next
 		   }
-    print(paste( " Calculating incidence for target:", target_id[i],"and outcome:", OutcomeList$outcome_id[j]))
+		   episodic_events(outcome)
+	    print(paste( " Calculating incidence for target:", target_id[i],"and outcome:", OutcomeList$outcome_id[j]))
 	ds <- data_prep(ae = outcome, target = target)
 	ds_ir     <- cbind(cut_and_aggregate(ds),databaseId)
 	csv_file <- paste0(outputFolderIR,"/episodic.csv")
