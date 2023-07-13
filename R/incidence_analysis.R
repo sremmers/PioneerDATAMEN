@@ -122,6 +122,25 @@ suppressMessages(as.data.frame(DatabaseConnector::querySql(conn,sql)))
 ###
 
 
+episodic_events=function(outcome)
+{
+time_to_event=as.numeric(difftime(outcome$OUTCOME_START_DATE, outcome$COHORT_START_DATE, units = "days"))/365.25
+cbind(outcome,time_to_event)
+outcome <-outcome %>%
+arrange(SUBJECT_ID, time_to_event)
+summary_data <- outcome %>%
+  group_by(SUBJECT_ID,TARGET_ID,OUTCOME_ID) %>%
+  summarise(count_of_events = n(),
+            mean_time_between_events = ifelse(n() > 1, mean(diff(time_to_event)), NA))
+			
+ csv_file <- paste0( outputFolderIR, "/episodic_events.csv")
+     		if (file.exists(csv_file)) {
+			write.table(summary_data, csv_file, sep = ",", col.names = FALSE, row.names = FALSE, append = TRUE)
+			} else 	{
+			write.table(summary_data, csv_file, sep = ",", col.names = TRUE, row.names = FALSE)
+				}
+}
+
 data_prep <- function(ae, target){
   # Create a table for the first adverse event
   df_ae <- data.frame(target_id = ae$TARGET_ID)
