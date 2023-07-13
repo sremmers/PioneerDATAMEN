@@ -3200,7 +3200,7 @@
 	"CensoringCriteria" : [],
 	"CollapseSettings" : {
 		"CollapseType" : "ERA",
-		"EraPad" : 90
+		"EraPad" : 30
 	},
 	"CensorWindow" : {}
 }

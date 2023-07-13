@@ -5444,7 +5444,7 @@
 	"CensoringCriteria" : [],
 	"CollapseSettings" : {
 		"CollapseType" : "ERA",
-		"EraPad" : 90
+		"EraPad" : 7
 	},
 	"CensorWindow" : {}
 }
