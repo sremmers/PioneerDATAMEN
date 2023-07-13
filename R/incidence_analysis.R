@@ -81,8 +81,8 @@ WHERE T.cohort_definition_id = @target_id
     SELECT MIN(cohort_start_date)
     FROM @cohortDatabaseSchema.@cohortTable
     WHERE subject_id = O.subject_id
-      AND cohort_definition_id = @outcome_id
-      AND cohort_start_date >= T.cohort_start_date
+      AND O.cohort_definition_id = @outcome_id
+      AND O.cohort_start_date >= T.cohort_start_date
       AND O.cohort_end_date <= T.cohort_end_date
   )'
 
