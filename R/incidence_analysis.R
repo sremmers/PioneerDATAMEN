@@ -66,7 +66,8 @@ JOIN @cohortDatabaseSchema.@cohortTable O ON T.subject_id = O.subject_id
 JOIN @cdmDatabaseSchema.person p ON T.subject_id = p.person_id
 WHERE T.cohort_definition_id = @target_id
   AND O.cohort_definition_id = @outcome_id
-  AND O.cohort_start_date >= T.cohort_start_date'
+  AND O.cohort_start_date >= T.cohort_start_date
+  AND O.cohort_end_date <= T.cohort_end_date'
 
 #first outcome during after target
 sql_outcome='SELECT T.COHORT_DEFINITION_ID as target_id, O.COHORT_DEFINITION_ID as outcome_id, T.SUBJECT_ID ,T.COHORT_START_DATE,O.COHORT_START_DATE as OUTCOME_START_DATE,T.COHORT_END_DATE, p.YEAR_OF_BIRTH
@@ -82,6 +83,7 @@ WHERE T.cohort_definition_id = @target_id
     WHERE subject_id = O.subject_id
       AND cohort_definition_id = @outcome_id
       AND cohort_start_date >= T.cohort_start_date
+      AND O.cohort_end_date <= T.cohort_end_date
   )'
 
 # target
