@@ -25,8 +25,12 @@ cohort_id,cohort_name
 887,Sepsis
 889,Kidney failure
 813,Neuropathy
-855,Rash & pruritus
+855,Rash
 890,Seizures
 833,Skeletally related events
 891,Thromboembolism
-896,Abnormal hepatic function
+896,Abnormal hepatic function (episodic)
+917,Abnormal hepatic function (chronic)
+866,Kidney failure (chronic)
+857,Kidney failure (episodic)
+
