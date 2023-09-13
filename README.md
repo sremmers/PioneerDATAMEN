@@ -30,7 +30,7 @@ How to run
 3. Once installed, you can execute the study by modifying and using the code below. For your convenience, this code is also provided under `extras/CodeToRun.R`:
 
 	```r
-	library(PioneerMetastaticAE)
+	library(PioneerDATAMEN)
 	
 	# Optional: specify where the temporary files (used by the Andromeda package) will be created:
 	options(andromedaTempFolder = "s:/andromedaTemp")
@@ -91,11 +91,11 @@ How to run
 
 License
 =======
-The PioneerMetastaticAE package is licensed under Apache License 2.0
+The PioneerDATAMEN package is licensed under Apache License 2.0
 
 Development
 ===========
-PioneerMetastaticAE was developed in ATLAS and R Studio.
+PioneerDATAMEN was developed in ATLAS and R Studio.
 
 ### Development status
 
