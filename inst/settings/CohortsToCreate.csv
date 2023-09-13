@@ -19,7 +19,7 @@ cohort_id,cohort_name
 810,Memory impairment
 842,Depression
 851,Respiratory distress
-881,Cognitive disturbance (memory impairment, depressive disorders)
+881,Cognitive disturbance (memory impairment or depressive disorders)
 889,Kidney failure
 984,BMI above 30
 999,Psychological distress
