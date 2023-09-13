@@ -1,5 +1,5 @@
 cohort_id,cohort_name
-360,mHSPC treated
+360, mHSPC treated
 985, Charlson Comorbidity Index (cut off 0)
 986, Charlson Comorbidity Index (cut off 1)
 987, Charlson Comorbidity Index (cut off >=2)
