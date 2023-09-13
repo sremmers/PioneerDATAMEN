@@ -1,25 +1,25 @@
 cohort_id,cohort_name
-360, mHSPC treated
-985, Charlson Comorbidity Index (cut off 0)
-986, Charlson Comorbidity Index (cut off 1)
-987, Charlson Comorbidity Index (cut off >=2)
-422, Performance Status ECOG=1
-423, Performance Status ECOG>=2
-283, Performance Status ECOG=0
-284, Hypertension
-286, Cardiovascular Disease Event
-287, Diabetes 2
-288, Venous thromboembolic (pulmonary embolism and deep vein thrombosis) 
-289, Anxiety
-310, Fatique or malaise
-403, Osteopenia and Osteoporosis
-407, Anemia
-797, Hepatotoxicity/Liver failure
-808, Dementia
-810, Memory impairment
-842, Depression
-851, Respiratory distress
-881, Cognitive disturbance (memory impairment, depressive disorders)
-889, Kidney failure
-984, BMI above 30
-999, Psychological distress
+360,mHSPC treated
+985,Charlson Comorbidity Index (cut off 0)
+986,Charlson Comorbidity Index (cut off 1)
+987,Charlson Comorbidity Index (cut off >=2)
+422,Performance Status ECOG=1
+423,Performance Status ECOG>=2
+283,Performance Status ECOG=0
+284,Hypertension
+286,Cardiovascular Disease Event
+287,Diabetes 2
+288,Venous thromboembolic (pulmonary embolism and deep vein thrombosis) 
+289,Anxiety
+310,Fatique or malaise
+403,Osteopenia and Osteoporosis
+407,Anemia
+797,Hepatotoxicity/Liver failure
+808,Dementia
+810,Memory impairment
+842,Depression
+851,Respiratory distress
+881,Cognitive disturbance (memory impairment, depressive disorders)
+889,Kidney failure
+984,BMI above 30
+999,Psychological distress
