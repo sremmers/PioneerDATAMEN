@@ -7,5 +7,18 @@
 "6","mHSPC",360,"Performance Status ECOG=0",283,1,0
 "7","mHSPC",360,"Hypertension",284,0,1
 "8","mHSPC",360,"Cardiovascular Disease Event",286,1,0
-
-
+"9","mHSPC",360,"Diabetes 2",287,0,1
+"10","mHSPC",360,"Venous thromboebolic",288,0,1
+"11","mHSPC",360,"Anxiety,289,1,0
+"12","mHSPC",360,"Fatique or malaise",310,1,0
+"13","mHSPC",360,"Osteopena and osteoporosis",403,0,1
+"14","mHSPC",360,"Anemia",407,1,0
+"15","mHSPC",360,"Liver failure",797,0,1
+"16","mHSPC",360,"Dementia",808,0,1
+"17","mHSPC",360,"Memory impairment",810,0,1
+"18","mHSPC",360,"Depression",842,0,1
+"19","mHSPC",360,"Respiratory distress",851,1,0
+"20","mHSPC",360,"Cognitive disturbance",881,1,0
+"21","mHSPC",360,"Kidney failure",889,0,1
+"22","mHSPC",360,"BMI above 80",984,1,0
+"23","mHSPC",360,"Psychological distress",999,1,0
