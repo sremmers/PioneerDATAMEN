@@ -6,9 +6,6 @@ PIONEER metastatic Hormone-Sensitive Prostate Cancer treatment characterization
 - Analytics use case(s): **Characterization**
 - Study type: **Clinical Application**
 - Tags: **cancer**
-- Study lead: **Juan-Gomez Rivas**
-- Study lead forums tag: **[bdemeulder](https://forums.ohdsi.org/u/bdemeulder)**
-- Study start date: **October 31, 2022**
 - Study end date: **-**
 - Protocol: **-**
 - Publications: **-**
