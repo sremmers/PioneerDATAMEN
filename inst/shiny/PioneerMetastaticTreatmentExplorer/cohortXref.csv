@@ -1,0 +1,937 @@
+cohortId,targetId,targetName,strataId,strataName,cohortType
+101,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,0,All,Target
+102,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,0,All,Target
+103,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,0,All,Target
+104,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,0,All,Target
+105,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,0,All,Target
+106,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,0,All,Target
+107,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,0,All,Target
+108,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,0,All,Target
+109,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,0,All,Target
+110,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,0,All,Target
+111,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,0,All,Target
+112,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,0,All,Target
+113,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,0,All,Target
+114,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,0,All,Target
+115,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,0,All,Target
+116,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,0,All,Target
+117,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,0,All,Target
+118,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,0,All,Target
+101002832,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,283,without Performance Status ECOG=0,TwoS
+102002832,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,283,without Performance Status ECOG=0,TwoS
+103002832,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,283,without Performance Status ECOG=0,TwoS
+104002832,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,283,without Performance Status ECOG=0,TwoS
+105002832,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,283,without Performance Status ECOG=0,TwoS
+106002832,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,283,without Performance Status ECOG=0,TwoS
+107002832,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,283,without Performance Status ECOG=0,TwoS
+108002832,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,283,without Performance Status ECOG=0,TwoS
+109002832,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,283,without Performance Status ECOG=0,TwoS
+110002832,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,283,without Performance Status ECOG=0,TwoS
+111002832,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,283,without Performance Status ECOG=0,TwoS
+112002832,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,283,without Performance Status ECOG=0,TwoS
+113002832,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,283,without Performance Status ECOG=0,TwoS
+114002832,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,283,without Performance Status ECOG=0,TwoS
+115002832,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,283,without Performance Status ECOG=0,TwoS
+116002832,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,283,without Performance Status ECOG=0,TwoS
+117002832,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,283,without Performance Status ECOG=0,TwoS
+118002832,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,283,without Performance Status ECOG=0,TwoS
+101002842,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,284,without Hypertension,TwoS
+102002842,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,284,without Hypertension,TwoS
+103002842,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,284,without Hypertension,TwoS
+104002842,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,284,without Hypertension,TwoS
+105002842,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,284,without Hypertension,TwoS
+106002842,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,284,without Hypertension,TwoS
+107002842,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,284,without Hypertension,TwoS
+108002842,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,284,without Hypertension,TwoS
+109002842,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,284,without Hypertension,TwoS
+110002842,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,284,without Hypertension,TwoS
+111002842,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,284,without Hypertension,TwoS
+112002842,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,284,without Hypertension,TwoS
+113002842,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,284,without Hypertension,TwoS
+114002842,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,284,without Hypertension,TwoS
+115002842,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,284,without Hypertension,TwoS
+116002842,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,284,without Hypertension,TwoS
+117002842,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,284,without Hypertension,TwoS
+118002842,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,284,without Hypertension,TwoS
+101002862,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,286,without Cardiovascular Disease Event,TwoS
+102002862,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,286,without Cardiovascular Disease Event,TwoS
+103002862,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,286,without Cardiovascular Disease Event,TwoS
+104002862,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,286,without Cardiovascular Disease Event,TwoS
+105002862,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,286,without Cardiovascular Disease Event,TwoS
+106002862,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,286,without Cardiovascular Disease Event,TwoS
+107002862,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,286,without Cardiovascular Disease Event,TwoS
+108002862,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,286,without Cardiovascular Disease Event,TwoS
+109002862,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,286,without Cardiovascular Disease Event,TwoS
+110002862,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,286,without Cardiovascular Disease Event,TwoS
+111002862,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,286,without Cardiovascular Disease Event,TwoS
+112002862,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,286,without Cardiovascular Disease Event,TwoS
+113002862,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,286,without Cardiovascular Disease Event,TwoS
+114002862,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,286,without Cardiovascular Disease Event,TwoS
+115002862,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,286,without Cardiovascular Disease Event,TwoS
+116002862,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,286,without Cardiovascular Disease Event,TwoS
+117002862,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,286,without Cardiovascular Disease Event,TwoS
+118002862,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,286,without Cardiovascular Disease Event,TwoS
+101002872,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,287,without Diabetes 2,TwoS
+102002872,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,287,without Diabetes 2,TwoS
+103002872,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,287,without Diabetes 2,TwoS
+104002872,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,287,without Diabetes 2,TwoS
+105002872,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,287,without Diabetes 2,TwoS
+106002872,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,287,without Diabetes 2,TwoS
+107002872,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,287,without Diabetes 2,TwoS
+108002872,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,287,without Diabetes 2,TwoS
+109002872,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,287,without Diabetes 2,TwoS
+110002872,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,287,without Diabetes 2,TwoS
+111002872,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,287,without Diabetes 2,TwoS
+112002872,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,287,without Diabetes 2,TwoS
+113002872,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,287,without Diabetes 2,TwoS
+114002872,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,287,without Diabetes 2,TwoS
+115002872,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,287,without Diabetes 2,TwoS
+116002872,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,287,without Diabetes 2,TwoS
+117002872,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,287,without Diabetes 2,TwoS
+118002872,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,287,without Diabetes 2,TwoS
+101002882,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+102002882,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+103002882,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+104002882,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+105002882,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+106002882,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+107002882,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+108002882,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+109002882,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+110002882,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+111002882,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+112002882,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+113002882,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+114002882,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+115002882,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+116002882,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+117002882,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+118002882,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,288,without Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwoS
+101002892,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,289,without Anxiety,TwoS
+102002892,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,289,without Anxiety,TwoS
+103002892,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,289,without Anxiety,TwoS
+104002892,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,289,without Anxiety,TwoS
+105002892,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,289,without Anxiety,TwoS
+106002892,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,289,without Anxiety,TwoS
+107002892,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,289,without Anxiety,TwoS
+108002892,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,289,without Anxiety,TwoS
+109002892,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,289,without Anxiety,TwoS
+110002892,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,289,without Anxiety,TwoS
+111002892,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,289,without Anxiety,TwoS
+112002892,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,289,without Anxiety,TwoS
+113002892,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,289,without Anxiety,TwoS
+114002892,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,289,without Anxiety,TwoS
+115002892,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,289,without Anxiety,TwoS
+116002892,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,289,without Anxiety,TwoS
+117002892,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,289,without Anxiety,TwoS
+118002892,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,289,without Anxiety,TwoS
+101003102,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,310,without Fatique or malaise,TwoS
+102003102,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,310,without Fatique or malaise,TwoS
+103003102,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,310,without Fatique or malaise,TwoS
+104003102,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,310,without Fatique or malaise,TwoS
+105003102,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,310,without Fatique or malaise,TwoS
+106003102,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,310,without Fatique or malaise,TwoS
+107003102,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,310,without Fatique or malaise,TwoS
+108003102,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,310,without Fatique or malaise,TwoS
+109003102,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,310,without Fatique or malaise,TwoS
+110003102,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,310,without Fatique or malaise,TwoS
+111003102,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,310,without Fatique or malaise,TwoS
+112003102,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,310,without Fatique or malaise,TwoS
+113003102,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,310,without Fatique or malaise,TwoS
+114003102,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,310,without Fatique or malaise,TwoS
+115003102,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,310,without Fatique or malaise,TwoS
+116003102,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,310,without Fatique or malaise,TwoS
+117003102,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,310,without Fatique or malaise,TwoS
+118003102,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,310,without Fatique or malaise,TwoS
+101004032,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,403,without Osteopenia and Osteoporosis,TwoS
+102004032,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,403,without Osteopenia and Osteoporosis,TwoS
+103004032,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,403,without Osteopenia and Osteoporosis,TwoS
+104004032,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,403,without Osteopenia and Osteoporosis,TwoS
+105004032,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,403,without Osteopenia and Osteoporosis,TwoS
+106004032,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,403,without Osteopenia and Osteoporosis,TwoS
+107004032,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,403,without Osteopenia and Osteoporosis,TwoS
+108004032,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,403,without Osteopenia and Osteoporosis,TwoS
+109004032,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,403,without Osteopenia and Osteoporosis,TwoS
+110004032,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,403,without Osteopenia and Osteoporosis,TwoS
+111004032,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,403,without Osteopenia and Osteoporosis,TwoS
+112004032,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,403,without Osteopenia and Osteoporosis,TwoS
+113004032,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,403,without Osteopenia and Osteoporosis,TwoS
+114004032,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,403,without Osteopenia and Osteoporosis,TwoS
+115004032,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,403,without Osteopenia and Osteoporosis,TwoS
+116004032,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,403,without Osteopenia and Osteoporosis,TwoS
+117004032,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,403,without Osteopenia and Osteoporosis,TwoS
+118004032,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,403,without Osteopenia and Osteoporosis,TwoS
+101004072,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,407,without Anemia,TwoS
+102004072,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,407,without Anemia,TwoS
+103004072,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,407,without Anemia,TwoS
+104004072,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,407,without Anemia,TwoS
+105004072,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,407,without Anemia,TwoS
+106004072,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,407,without Anemia,TwoS
+107004072,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,407,without Anemia,TwoS
+108004072,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,407,without Anemia,TwoS
+109004072,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,407,without Anemia,TwoS
+110004072,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,407,without Anemia,TwoS
+111004072,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,407,without Anemia,TwoS
+112004072,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,407,without Anemia,TwoS
+113004072,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,407,without Anemia,TwoS
+114004072,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,407,without Anemia,TwoS
+115004072,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,407,without Anemia,TwoS
+116004072,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,407,without Anemia,TwoS
+117004072,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,407,without Anemia,TwoS
+118004072,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,407,without Anemia,TwoS
+101004222,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,422,without Performance Status ECOG=1,TwoS
+102004222,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,422,without Performance Status ECOG=1,TwoS
+103004222,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,422,without Performance Status ECOG=1,TwoS
+104004222,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,422,without Performance Status ECOG=1,TwoS
+105004222,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,422,without Performance Status ECOG=1,TwoS
+106004222,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,422,without Performance Status ECOG=1,TwoS
+107004222,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,422,without Performance Status ECOG=1,TwoS
+108004222,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,422,without Performance Status ECOG=1,TwoS
+109004222,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,422,without Performance Status ECOG=1,TwoS
+110004222,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,422,without Performance Status ECOG=1,TwoS
+111004222,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,422,without Performance Status ECOG=1,TwoS
+112004222,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,422,without Performance Status ECOG=1,TwoS
+113004222,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,422,without Performance Status ECOG=1,TwoS
+114004222,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,422,without Performance Status ECOG=1,TwoS
+115004222,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,422,without Performance Status ECOG=1,TwoS
+116004222,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,422,without Performance Status ECOG=1,TwoS
+117004222,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,422,without Performance Status ECOG=1,TwoS
+118004222,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,422,without Performance Status ECOG=1,TwoS
+101007972,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+102007972,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+103007972,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+104007972,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+105007972,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+106007972,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+107007972,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+108007972,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+109007972,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+110007972,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+111007972,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+112007972,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+113007972,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+114007972,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+115007972,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+116007972,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+117007972,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+118007972,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,797,without Hepatotoxicity/Liver failure,TwoS
+101008082,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,808,without Dementia,TwoS
+102008082,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,808,without Dementia,TwoS
+103008082,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,808,without Dementia,TwoS
+104008082,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,808,without Dementia,TwoS
+105008082,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,808,without Dementia,TwoS
+106008082,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,808,without Dementia,TwoS
+107008082,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,808,without Dementia,TwoS
+108008082,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,808,without Dementia,TwoS
+109008082,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,808,without Dementia,TwoS
+110008082,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,808,without Dementia,TwoS
+111008082,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,808,without Dementia,TwoS
+112008082,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,808,without Dementia,TwoS
+113008082,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,808,without Dementia,TwoS
+114008082,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,808,without Dementia,TwoS
+115008082,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,808,without Dementia,TwoS
+116008082,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,808,without Dementia,TwoS
+117008082,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,808,without Dementia,TwoS
+118008082,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,808,without Dementia,TwoS
+101008102,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,810,without Memory impairment,TwoS
+102008102,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,810,without Memory impairment,TwoS
+103008102,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,810,without Memory impairment,TwoS
+104008102,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,810,without Memory impairment,TwoS
+105008102,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,810,without Memory impairment,TwoS
+106008102,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,810,without Memory impairment,TwoS
+107008102,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,810,without Memory impairment,TwoS
+108008102,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,810,without Memory impairment,TwoS
+109008102,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,810,without Memory impairment,TwoS
+110008102,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,810,without Memory impairment,TwoS
+111008102,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,810,without Memory impairment,TwoS
+112008102,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,810,without Memory impairment,TwoS
+113008102,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,810,without Memory impairment,TwoS
+114008102,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,810,without Memory impairment,TwoS
+115008102,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,810,without Memory impairment,TwoS
+116008102,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,810,without Memory impairment,TwoS
+117008102,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,810,without Memory impairment,TwoS
+118008102,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,810,without Memory impairment,TwoS
+101008422,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,842,without Depression,TwoS
+102008422,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,842,without Depression,TwoS
+103008422,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,842,without Depression,TwoS
+104008422,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,842,without Depression,TwoS
+105008422,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,842,without Depression,TwoS
+106008422,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,842,without Depression,TwoS
+107008422,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,842,without Depression,TwoS
+108008422,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,842,without Depression,TwoS
+109008422,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,842,without Depression,TwoS
+110008422,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,842,without Depression,TwoS
+111008422,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,842,without Depression,TwoS
+112008422,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,842,without Depression,TwoS
+113008422,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,842,without Depression,TwoS
+114008422,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,842,without Depression,TwoS
+115008422,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,842,without Depression,TwoS
+116008422,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,842,without Depression,TwoS
+117008422,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,842,without Depression,TwoS
+118008422,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,842,without Depression,TwoS
+101008512,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,851,without Respiratory distress,TwoS
+102008512,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,851,without Respiratory distress,TwoS
+103008512,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,851,without Respiratory distress,TwoS
+104008512,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,851,without Respiratory distress,TwoS
+105008512,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,851,without Respiratory distress,TwoS
+106008512,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,851,without Respiratory distress,TwoS
+107008512,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,851,without Respiratory distress,TwoS
+108008512,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,851,without Respiratory distress,TwoS
+109008512,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,851,without Respiratory distress,TwoS
+110008512,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,851,without Respiratory distress,TwoS
+111008512,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,851,without Respiratory distress,TwoS
+112008512,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,851,without Respiratory distress,TwoS
+113008512,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,851,without Respiratory distress,TwoS
+114008512,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,851,without Respiratory distress,TwoS
+115008512,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,851,without Respiratory distress,TwoS
+116008512,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,851,without Respiratory distress,TwoS
+117008512,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,851,without Respiratory distress,TwoS
+118008512,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,851,without Respiratory distress,TwoS
+101008892,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,889,without Kidney failure,TwoS
+102008892,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,889,without Kidney failure,TwoS
+103008892,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,889,without Kidney failure,TwoS
+104008892,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,889,without Kidney failure,TwoS
+105008892,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,889,without Kidney failure,TwoS
+106008892,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,889,without Kidney failure,TwoS
+107008892,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,889,without Kidney failure,TwoS
+108008892,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,889,without Kidney failure,TwoS
+109008892,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,889,without Kidney failure,TwoS
+110008892,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,889,without Kidney failure,TwoS
+111008892,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,889,without Kidney failure,TwoS
+112008892,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,889,without Kidney failure,TwoS
+113008892,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,889,without Kidney failure,TwoS
+114008892,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,889,without Kidney failure,TwoS
+115008892,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,889,without Kidney failure,TwoS
+116008892,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,889,without Kidney failure,TwoS
+117008892,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,889,without Kidney failure,TwoS
+118008892,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,889,without Kidney failure,TwoS
+101009842,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,984,without BMI above 30,TwoS
+102009842,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,984,without BMI above 30,TwoS
+103009842,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,984,without BMI above 30,TwoS
+104009842,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,984,without BMI above 30,TwoS
+105009842,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,984,without BMI above 30,TwoS
+106009842,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,984,without BMI above 30,TwoS
+107009842,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,984,without BMI above 30,TwoS
+108009842,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,984,without BMI above 30,TwoS
+109009842,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,984,without BMI above 30,TwoS
+110009842,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,984,without BMI above 30,TwoS
+111009842,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,984,without BMI above 30,TwoS
+112009842,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,984,without BMI above 30,TwoS
+113009842,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,984,without BMI above 30,TwoS
+114009842,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,984,without BMI above 30,TwoS
+115009842,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,984,without BMI above 30,TwoS
+116009842,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,984,without BMI above 30,TwoS
+117009842,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,984,without BMI above 30,TwoS
+118009842,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,984,without BMI above 30,TwoS
+101009852,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+102009852,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+103009852,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+104009852,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+105009852,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+106009852,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+107009852,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+108009852,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+109009852,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+110009852,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+111009852,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+112009852,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+113009852,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+114009852,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+115009852,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+116009852,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+117009852,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+118009852,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,985,without Charlson Comorbidity Index (cut off 0),TwoS
+101009862,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+102009862,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+103009862,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+104009862,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+105009862,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+106009862,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+107009862,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+108009862,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+109009862,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+110009862,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+111009862,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+112009862,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+113009862,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+114009862,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+115009862,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+116009862,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+117009862,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+118009862,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,986,without Charlson Comorbidity Index (cut off 1),TwoS
+101009872,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+102009872,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+103009872,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+104009872,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+105009872,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+106009872,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+107009872,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+108009872,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+109009872,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+110009872,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+111009872,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+112009872,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+113009872,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+114009872,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+115009872,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+116009872,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+117009872,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+118009872,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,987,without Charlson Comorbidity Index (cut off >=2),TwoS
+101009992,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,999,without Psychological distress,TwoS
+102009992,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,999,without Psychological distress,TwoS
+103009992,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,999,without Psychological distress,TwoS
+104009992,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,999,without Psychological distress,TwoS
+105009992,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,999,without Psychological distress,TwoS
+106009992,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,999,without Psychological distress,TwoS
+107009992,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,999,without Psychological distress,TwoS
+108009992,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,999,without Psychological distress,TwoS
+109009992,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,999,without Psychological distress,TwoS
+110009992,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,999,without Psychological distress,TwoS
+111009992,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,999,without Psychological distress,TwoS
+112009992,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,999,without Psychological distress,TwoS
+113009992,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,999,without Psychological distress,TwoS
+114009992,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,999,without Psychological distress,TwoS
+115009992,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,999,without Psychological distress,TwoS
+116009992,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,999,without Psychological distress,TwoS
+117009992,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,999,without Psychological distress,TwoS
+118009992,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,999,without Psychological distress,TwoS
+101000011,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,1,with Age < 60,TwS
+102000011,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,1,with Age < 60,TwS
+103000011,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,1,with Age < 60,TwS
+104000011,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,1,with Age < 60,TwS
+105000011,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,1,with Age < 60,TwS
+106000011,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,1,with Age < 60,TwS
+107000011,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,1,with Age < 60,TwS
+108000011,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,1,with Age < 60,TwS
+109000011,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,1,with Age < 60,TwS
+110000011,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,1,with Age < 60,TwS
+111000011,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,1,with Age < 60,TwS
+112000011,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,1,with Age < 60,TwS
+113000011,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,1,with Age < 60,TwS
+114000011,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,1,with Age < 60,TwS
+115000011,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,1,with Age < 60,TwS
+116000011,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,1,with Age < 60,TwS
+117000011,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,1,with Age < 60,TwS
+118000011,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,1,with Age < 60,TwS
+101000021,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,2,with Age 60 - 69,TwS
+102000021,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,2,with Age 60 - 69,TwS
+103000021,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,2,with Age 60 - 69,TwS
+104000021,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,2,with Age 60 - 69,TwS
+105000021,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,2,with Age 60 - 69,TwS
+106000021,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,2,with Age 60 - 69,TwS
+107000021,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,2,with Age 60 - 69,TwS
+108000021,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,2,with Age 60 - 69,TwS
+109000021,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,2,with Age 60 - 69,TwS
+110000021,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,2,with Age 60 - 69,TwS
+111000021,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,2,with Age 60 - 69,TwS
+112000021,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,2,with Age 60 - 69,TwS
+113000021,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,2,with Age 60 - 69,TwS
+114000021,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,2,with Age 60 - 69,TwS
+115000021,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,2,with Age 60 - 69,TwS
+116000021,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,2,with Age 60 - 69,TwS
+117000021,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,2,with Age 60 - 69,TwS
+118000021,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,2,with Age 60 - 69,TwS
+101000031,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,3,with Age 70 - 79,TwS
+102000031,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,3,with Age 70 - 79,TwS
+103000031,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,3,with Age 70 - 79,TwS
+104000031,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,3,with Age 70 - 79,TwS
+105000031,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,3,with Age 70 - 79,TwS
+106000031,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,3,with Age 70 - 79,TwS
+107000031,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,3,with Age 70 - 79,TwS
+108000031,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,3,with Age 70 - 79,TwS
+109000031,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,3,with Age 70 - 79,TwS
+110000031,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,3,with Age 70 - 79,TwS
+111000031,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,3,with Age 70 - 79,TwS
+112000031,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,3,with Age 70 - 79,TwS
+113000031,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,3,with Age 70 - 79,TwS
+114000031,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,3,with Age 70 - 79,TwS
+115000031,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,3,with Age 70 - 79,TwS
+116000031,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,3,with Age 70 - 79,TwS
+117000031,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,3,with Age 70 - 79,TwS
+118000031,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,3,with Age 70 - 79,TwS
+101000041,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,4,with Age >= 80,TwS
+102000041,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,4,with Age >= 80,TwS
+103000041,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,4,with Age >= 80,TwS
+104000041,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,4,with Age >= 80,TwS
+105000041,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,4,with Age >= 80,TwS
+106000041,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,4,with Age >= 80,TwS
+107000041,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,4,with Age >= 80,TwS
+108000041,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,4,with Age >= 80,TwS
+109000041,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,4,with Age >= 80,TwS
+110000041,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,4,with Age >= 80,TwS
+111000041,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,4,with Age >= 80,TwS
+112000041,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,4,with Age >= 80,TwS
+113000041,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,4,with Age >= 80,TwS
+114000041,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,4,with Age >= 80,TwS
+115000041,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,4,with Age >= 80,TwS
+116000041,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,4,with Age >= 80,TwS
+117000041,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,4,with Age >= 80,TwS
+118000041,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,4,with Age >= 80,TwS
+101000051,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,5,with Index year = 2016,TwS
+102000051,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,5,with Index year = 2016,TwS
+103000051,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,5,with Index year = 2016,TwS
+104000051,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,5,with Index year = 2016,TwS
+105000051,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,5,with Index year = 2016,TwS
+106000051,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,5,with Index year = 2016,TwS
+107000051,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,5,with Index year = 2016,TwS
+108000051,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,5,with Index year = 2016,TwS
+109000051,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,5,with Index year = 2016,TwS
+110000051,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,5,with Index year = 2016,TwS
+111000051,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,5,with Index year = 2016,TwS
+112000051,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,5,with Index year = 2016,TwS
+113000051,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,5,with Index year = 2016,TwS
+114000051,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,5,with Index year = 2016,TwS
+115000051,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,5,with Index year = 2016,TwS
+116000051,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,5,with Index year = 2016,TwS
+117000051,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,5,with Index year = 2016,TwS
+118000051,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,5,with Index year = 2016,TwS
+101000061,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,6,with Index year = 2017,TwS
+102000061,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,6,with Index year = 2017,TwS
+103000061,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,6,with Index year = 2017,TwS
+104000061,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,6,with Index year = 2017,TwS
+105000061,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,6,with Index year = 2017,TwS
+106000061,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,6,with Index year = 2017,TwS
+107000061,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,6,with Index year = 2017,TwS
+108000061,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,6,with Index year = 2017,TwS
+109000061,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,6,with Index year = 2017,TwS
+110000061,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,6,with Index year = 2017,TwS
+111000061,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,6,with Index year = 2017,TwS
+112000061,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,6,with Index year = 2017,TwS
+113000061,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,6,with Index year = 2017,TwS
+114000061,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,6,with Index year = 2017,TwS
+115000061,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,6,with Index year = 2017,TwS
+116000061,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,6,with Index year = 2017,TwS
+117000061,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,6,with Index year = 2017,TwS
+118000061,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,6,with Index year = 2017,TwS
+101000071,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,7,with Index year = 2018,TwS
+102000071,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,7,with Index year = 2018,TwS
+103000071,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,7,with Index year = 2018,TwS
+104000071,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,7,with Index year = 2018,TwS
+105000071,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,7,with Index year = 2018,TwS
+106000071,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,7,with Index year = 2018,TwS
+107000071,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,7,with Index year = 2018,TwS
+108000071,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,7,with Index year = 2018,TwS
+109000071,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,7,with Index year = 2018,TwS
+110000071,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,7,with Index year = 2018,TwS
+111000071,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,7,with Index year = 2018,TwS
+112000071,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,7,with Index year = 2018,TwS
+113000071,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,7,with Index year = 2018,TwS
+114000071,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,7,with Index year = 2018,TwS
+115000071,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,7,with Index year = 2018,TwS
+116000071,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,7,with Index year = 2018,TwS
+117000071,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,7,with Index year = 2018,TwS
+118000071,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,7,with Index year = 2018,TwS
+101000081,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,8,with Index year = 2019,TwS
+102000081,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,8,with Index year = 2019,TwS
+103000081,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,8,with Index year = 2019,TwS
+104000081,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,8,with Index year = 2019,TwS
+105000081,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,8,with Index year = 2019,TwS
+106000081,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,8,with Index year = 2019,TwS
+107000081,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,8,with Index year = 2019,TwS
+108000081,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,8,with Index year = 2019,TwS
+109000081,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,8,with Index year = 2019,TwS
+110000081,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,8,with Index year = 2019,TwS
+111000081,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,8,with Index year = 2019,TwS
+112000081,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,8,with Index year = 2019,TwS
+113000081,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,8,with Index year = 2019,TwS
+114000081,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,8,with Index year = 2019,TwS
+115000081,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,8,with Index year = 2019,TwS
+116000081,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,8,with Index year = 2019,TwS
+117000081,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,8,with Index year = 2019,TwS
+118000081,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,8,with Index year = 2019,TwS
+101000091,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,9,with Index year = 2020,TwS
+102000091,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,9,with Index year = 2020,TwS
+103000091,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,9,with Index year = 2020,TwS
+104000091,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,9,with Index year = 2020,TwS
+105000091,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,9,with Index year = 2020,TwS
+106000091,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,9,with Index year = 2020,TwS
+107000091,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,9,with Index year = 2020,TwS
+108000091,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,9,with Index year = 2020,TwS
+109000091,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,9,with Index year = 2020,TwS
+110000091,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,9,with Index year = 2020,TwS
+111000091,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,9,with Index year = 2020,TwS
+112000091,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,9,with Index year = 2020,TwS
+113000091,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,9,with Index year = 2020,TwS
+114000091,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,9,with Index year = 2020,TwS
+115000091,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,9,with Index year = 2020,TwS
+116000091,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,9,with Index year = 2020,TwS
+117000091,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,9,with Index year = 2020,TwS
+118000091,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,9,with Index year = 2020,TwS
+101002831,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,283,with Performance Status ECOG=0,TwS
+102002831,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,283,with Performance Status ECOG=0,TwS
+103002831,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,283,with Performance Status ECOG=0,TwS
+104002831,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,283,with Performance Status ECOG=0,TwS
+105002831,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,283,with Performance Status ECOG=0,TwS
+106002831,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,283,with Performance Status ECOG=0,TwS
+107002831,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,283,with Performance Status ECOG=0,TwS
+108002831,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,283,with Performance Status ECOG=0,TwS
+109002831,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,283,with Performance Status ECOG=0,TwS
+110002831,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,283,with Performance Status ECOG=0,TwS
+111002831,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,283,with Performance Status ECOG=0,TwS
+112002831,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,283,with Performance Status ECOG=0,TwS
+113002831,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,283,with Performance Status ECOG=0,TwS
+114002831,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,283,with Performance Status ECOG=0,TwS
+115002831,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,283,with Performance Status ECOG=0,TwS
+116002831,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,283,with Performance Status ECOG=0,TwS
+117002831,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,283,with Performance Status ECOG=0,TwS
+118002831,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,283,with Performance Status ECOG=0,TwS
+101002841,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,284,with Hypertension,TwS
+102002841,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,284,with Hypertension,TwS
+103002841,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,284,with Hypertension,TwS
+104002841,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,284,with Hypertension,TwS
+105002841,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,284,with Hypertension,TwS
+106002841,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,284,with Hypertension,TwS
+107002841,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,284,with Hypertension,TwS
+108002841,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,284,with Hypertension,TwS
+109002841,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,284,with Hypertension,TwS
+110002841,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,284,with Hypertension,TwS
+111002841,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,284,with Hypertension,TwS
+112002841,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,284,with Hypertension,TwS
+113002841,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,284,with Hypertension,TwS
+114002841,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,284,with Hypertension,TwS
+115002841,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,284,with Hypertension,TwS
+116002841,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,284,with Hypertension,TwS
+117002841,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,284,with Hypertension,TwS
+118002841,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,284,with Hypertension,TwS
+101002861,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,286,with Cardiovascular Disease Event,TwS
+102002861,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,286,with Cardiovascular Disease Event,TwS
+103002861,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,286,with Cardiovascular Disease Event,TwS
+104002861,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,286,with Cardiovascular Disease Event,TwS
+105002861,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,286,with Cardiovascular Disease Event,TwS
+106002861,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,286,with Cardiovascular Disease Event,TwS
+107002861,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,286,with Cardiovascular Disease Event,TwS
+108002861,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,286,with Cardiovascular Disease Event,TwS
+109002861,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,286,with Cardiovascular Disease Event,TwS
+110002861,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,286,with Cardiovascular Disease Event,TwS
+111002861,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,286,with Cardiovascular Disease Event,TwS
+112002861,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,286,with Cardiovascular Disease Event,TwS
+113002861,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,286,with Cardiovascular Disease Event,TwS
+114002861,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,286,with Cardiovascular Disease Event,TwS
+115002861,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,286,with Cardiovascular Disease Event,TwS
+116002861,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,286,with Cardiovascular Disease Event,TwS
+117002861,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,286,with Cardiovascular Disease Event,TwS
+118002861,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,286,with Cardiovascular Disease Event,TwS
+101002871,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,287,with Diabetes 2,TwS
+102002871,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,287,with Diabetes 2,TwS
+103002871,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,287,with Diabetes 2,TwS
+104002871,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,287,with Diabetes 2,TwS
+105002871,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,287,with Diabetes 2,TwS
+106002871,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,287,with Diabetes 2,TwS
+107002871,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,287,with Diabetes 2,TwS
+108002871,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,287,with Diabetes 2,TwS
+109002871,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,287,with Diabetes 2,TwS
+110002871,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,287,with Diabetes 2,TwS
+111002871,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,287,with Diabetes 2,TwS
+112002871,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,287,with Diabetes 2,TwS
+113002871,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,287,with Diabetes 2,TwS
+114002871,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,287,with Diabetes 2,TwS
+115002871,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,287,with Diabetes 2,TwS
+116002871,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,287,with Diabetes 2,TwS
+117002871,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,287,with Diabetes 2,TwS
+118002871,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,287,with Diabetes 2,TwS
+101002881,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+102002881,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+103002881,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+104002881,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+105002881,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+106002881,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+107002881,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+108002881,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+109002881,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+110002881,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+111002881,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+112002881,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+113002881,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+114002881,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+115002881,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+116002881,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+117002881,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+118002881,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,288,with Venous thromboembolic (pulmonary embolism and deep vein thrombosis),TwS
+101002891,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,289,with Anxiety,TwS
+102002891,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,289,with Anxiety,TwS
+103002891,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,289,with Anxiety,TwS
+104002891,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,289,with Anxiety,TwS
+105002891,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,289,with Anxiety,TwS
+106002891,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,289,with Anxiety,TwS
+107002891,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,289,with Anxiety,TwS
+108002891,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,289,with Anxiety,TwS
+109002891,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,289,with Anxiety,TwS
+110002891,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,289,with Anxiety,TwS
+111002891,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,289,with Anxiety,TwS
+112002891,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,289,with Anxiety,TwS
+113002891,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,289,with Anxiety,TwS
+114002891,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,289,with Anxiety,TwS
+115002891,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,289,with Anxiety,TwS
+116002891,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,289,with Anxiety,TwS
+117002891,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,289,with Anxiety,TwS
+118002891,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,289,with Anxiety,TwS
+101003101,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,310,with Fatique or malaise,TwS
+102003101,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,310,with Fatique or malaise,TwS
+103003101,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,310,with Fatique or malaise,TwS
+104003101,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,310,with Fatique or malaise,TwS
+105003101,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,310,with Fatique or malaise,TwS
+106003101,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,310,with Fatique or malaise,TwS
+107003101,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,310,with Fatique or malaise,TwS
+108003101,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,310,with Fatique or malaise,TwS
+109003101,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,310,with Fatique or malaise,TwS
+110003101,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,310,with Fatique or malaise,TwS
+111003101,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,310,with Fatique or malaise,TwS
+112003101,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,310,with Fatique or malaise,TwS
+113003101,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,310,with Fatique or malaise,TwS
+114003101,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,310,with Fatique or malaise,TwS
+115003101,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,310,with Fatique or malaise,TwS
+116003101,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,310,with Fatique or malaise,TwS
+117003101,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,310,with Fatique or malaise,TwS
+118003101,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,310,with Fatique or malaise,TwS
+101004031,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,403,with Osteopenia and Osteoporosis,TwS
+102004031,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,403,with Osteopenia and Osteoporosis,TwS
+103004031,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,403,with Osteopenia and Osteoporosis,TwS
+104004031,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,403,with Osteopenia and Osteoporosis,TwS
+105004031,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,403,with Osteopenia and Osteoporosis,TwS
+106004031,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,403,with Osteopenia and Osteoporosis,TwS
+107004031,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,403,with Osteopenia and Osteoporosis,TwS
+108004031,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,403,with Osteopenia and Osteoporosis,TwS
+109004031,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,403,with Osteopenia and Osteoporosis,TwS
+110004031,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,403,with Osteopenia and Osteoporosis,TwS
+111004031,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,403,with Osteopenia and Osteoporosis,TwS
+112004031,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,403,with Osteopenia and Osteoporosis,TwS
+113004031,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,403,with Osteopenia and Osteoporosis,TwS
+114004031,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,403,with Osteopenia and Osteoporosis,TwS
+115004031,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,403,with Osteopenia and Osteoporosis,TwS
+116004031,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,403,with Osteopenia and Osteoporosis,TwS
+117004031,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,403,with Osteopenia and Osteoporosis,TwS
+118004031,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,403,with Osteopenia and Osteoporosis,TwS
+101004071,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,407,with Anemia,TwS
+102004071,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,407,with Anemia,TwS
+103004071,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,407,with Anemia,TwS
+104004071,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,407,with Anemia,TwS
+105004071,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,407,with Anemia,TwS
+106004071,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,407,with Anemia,TwS
+107004071,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,407,with Anemia,TwS
+108004071,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,407,with Anemia,TwS
+109004071,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,407,with Anemia,TwS
+110004071,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,407,with Anemia,TwS
+111004071,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,407,with Anemia,TwS
+112004071,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,407,with Anemia,TwS
+113004071,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,407,with Anemia,TwS
+114004071,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,407,with Anemia,TwS
+115004071,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,407,with Anemia,TwS
+116004071,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,407,with Anemia,TwS
+117004071,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,407,with Anemia,TwS
+118004071,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,407,with Anemia,TwS
+101004221,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,422,with Performance Status ECOG=1,TwS
+102004221,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,422,with Performance Status ECOG=1,TwS
+103004221,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,422,with Performance Status ECOG=1,TwS
+104004221,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,422,with Performance Status ECOG=1,TwS
+105004221,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,422,with Performance Status ECOG=1,TwS
+106004221,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,422,with Performance Status ECOG=1,TwS
+107004221,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,422,with Performance Status ECOG=1,TwS
+108004221,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,422,with Performance Status ECOG=1,TwS
+109004221,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,422,with Performance Status ECOG=1,TwS
+110004221,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,422,with Performance Status ECOG=1,TwS
+111004221,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,422,with Performance Status ECOG=1,TwS
+112004221,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,422,with Performance Status ECOG=1,TwS
+113004221,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,422,with Performance Status ECOG=1,TwS
+114004221,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,422,with Performance Status ECOG=1,TwS
+115004221,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,422,with Performance Status ECOG=1,TwS
+116004221,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,422,with Performance Status ECOG=1,TwS
+117004221,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,422,with Performance Status ECOG=1,TwS
+118004221,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,422,with Performance Status ECOG=1,TwS
+101007971,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,797,with Hepatotoxicity/Liver failure,TwS
+102007971,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,797,with Hepatotoxicity/Liver failure,TwS
+103007971,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,797,with Hepatotoxicity/Liver failure,TwS
+104007971,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,797,with Hepatotoxicity/Liver failure,TwS
+105007971,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,797,with Hepatotoxicity/Liver failure,TwS
+106007971,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,797,with Hepatotoxicity/Liver failure,TwS
+107007971,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,797,with Hepatotoxicity/Liver failure,TwS
+108007971,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,797,with Hepatotoxicity/Liver failure,TwS
+109007971,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,797,with Hepatotoxicity/Liver failure,TwS
+110007971,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,797,with Hepatotoxicity/Liver failure,TwS
+111007971,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,797,with Hepatotoxicity/Liver failure,TwS
+112007971,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,797,with Hepatotoxicity/Liver failure,TwS
+113007971,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,797,with Hepatotoxicity/Liver failure,TwS
+114007971,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,797,with Hepatotoxicity/Liver failure,TwS
+115007971,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,797,with Hepatotoxicity/Liver failure,TwS
+116007971,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,797,with Hepatotoxicity/Liver failure,TwS
+117007971,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,797,with Hepatotoxicity/Liver failure,TwS
+118007971,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,797,with Hepatotoxicity/Liver failure,TwS
+101008081,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,808,with Dementia,TwS
+102008081,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,808,with Dementia,TwS
+103008081,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,808,with Dementia,TwS
+104008081,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,808,with Dementia,TwS
+105008081,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,808,with Dementia,TwS
+106008081,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,808,with Dementia,TwS
+107008081,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,808,with Dementia,TwS
+108008081,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,808,with Dementia,TwS
+109008081,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,808,with Dementia,TwS
+110008081,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,808,with Dementia,TwS
+111008081,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,808,with Dementia,TwS
+112008081,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,808,with Dementia,TwS
+113008081,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,808,with Dementia,TwS
+114008081,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,808,with Dementia,TwS
+115008081,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,808,with Dementia,TwS
+116008081,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,808,with Dementia,TwS
+117008081,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,808,with Dementia,TwS
+118008081,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,808,with Dementia,TwS
+101008101,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,810,with Memory impairment,TwS
+102008101,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,810,with Memory impairment,TwS
+103008101,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,810,with Memory impairment,TwS
+104008101,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,810,with Memory impairment,TwS
+105008101,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,810,with Memory impairment,TwS
+106008101,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,810,with Memory impairment,TwS
+107008101,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,810,with Memory impairment,TwS
+108008101,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,810,with Memory impairment,TwS
+109008101,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,810,with Memory impairment,TwS
+110008101,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,810,with Memory impairment,TwS
+111008101,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,810,with Memory impairment,TwS
+112008101,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,810,with Memory impairment,TwS
+113008101,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,810,with Memory impairment,TwS
+114008101,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,810,with Memory impairment,TwS
+115008101,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,810,with Memory impairment,TwS
+116008101,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,810,with Memory impairment,TwS
+117008101,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,810,with Memory impairment,TwS
+118008101,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,810,with Memory impairment,TwS
+101008421,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,842,with Depression,TwS
+102008421,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,842,with Depression,TwS
+103008421,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,842,with Depression,TwS
+104008421,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,842,with Depression,TwS
+105008421,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,842,with Depression,TwS
+106008421,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,842,with Depression,TwS
+107008421,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,842,with Depression,TwS
+108008421,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,842,with Depression,TwS
+109008421,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,842,with Depression,TwS
+110008421,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,842,with Depression,TwS
+111008421,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,842,with Depression,TwS
+112008421,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,842,with Depression,TwS
+113008421,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,842,with Depression,TwS
+114008421,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,842,with Depression,TwS
+115008421,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,842,with Depression,TwS
+116008421,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,842,with Depression,TwS
+117008421,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,842,with Depression,TwS
+118008421,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,842,with Depression,TwS
+101008511,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,851,with Respiratory distress,TwS
+102008511,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,851,with Respiratory distress,TwS
+103008511,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,851,with Respiratory distress,TwS
+104008511,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,851,with Respiratory distress,TwS
+105008511,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,851,with Respiratory distress,TwS
+106008511,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,851,with Respiratory distress,TwS
+107008511,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,851,with Respiratory distress,TwS
+108008511,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,851,with Respiratory distress,TwS
+109008511,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,851,with Respiratory distress,TwS
+110008511,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,851,with Respiratory distress,TwS
+111008511,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,851,with Respiratory distress,TwS
+112008511,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,851,with Respiratory distress,TwS
+113008511,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,851,with Respiratory distress,TwS
+114008511,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,851,with Respiratory distress,TwS
+115008511,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,851,with Respiratory distress,TwS
+116008511,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,851,with Respiratory distress,TwS
+117008511,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,851,with Respiratory distress,TwS
+118008511,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,851,with Respiratory distress,TwS
+101008891,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,889,with Kidney failure,TwS
+102008891,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,889,with Kidney failure,TwS
+103008891,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,889,with Kidney failure,TwS
+104008891,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,889,with Kidney failure,TwS
+105008891,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,889,with Kidney failure,TwS
+106008891,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,889,with Kidney failure,TwS
+107008891,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,889,with Kidney failure,TwS
+108008891,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,889,with Kidney failure,TwS
+109008891,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,889,with Kidney failure,TwS
+110008891,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,889,with Kidney failure,TwS
+111008891,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,889,with Kidney failure,TwS
+112008891,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,889,with Kidney failure,TwS
+113008891,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,889,with Kidney failure,TwS
+114008891,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,889,with Kidney failure,TwS
+115008891,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,889,with Kidney failure,TwS
+116008891,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,889,with Kidney failure,TwS
+117008891,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,889,with Kidney failure,TwS
+118008891,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,889,with Kidney failure,TwS
+101009841,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,984,with BMI above 30,TwS
+102009841,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,984,with BMI above 30,TwS
+103009841,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,984,with BMI above 30,TwS
+104009841,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,984,with BMI above 30,TwS
+105009841,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,984,with BMI above 30,TwS
+106009841,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,984,with BMI above 30,TwS
+107009841,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,984,with BMI above 30,TwS
+108009841,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,984,with BMI above 30,TwS
+109009841,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,984,with BMI above 30,TwS
+110009841,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,984,with BMI above 30,TwS
+111009841,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,984,with BMI above 30,TwS
+112009841,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,984,with BMI above 30,TwS
+113009841,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,984,with BMI above 30,TwS
+114009841,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,984,with BMI above 30,TwS
+115009841,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,984,with BMI above 30,TwS
+116009841,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,984,with BMI above 30,TwS
+117009841,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,984,with BMI above 30,TwS
+118009841,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,984,with BMI above 30,TwS
+101009851,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+102009851,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+103009851,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+104009851,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+105009851,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+106009851,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+107009851,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+108009851,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+109009851,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+110009851,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+111009851,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+112009851,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+113009851,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+114009851,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+115009851,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+116009851,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+117009851,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+118009851,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,985,with Charlson Comorbidity Index (cut off 0),TwS
+101009861,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+102009861,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+103009861,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+104009861,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+105009861,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+106009861,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+107009861,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+108009861,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+109009861,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+110009861,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+111009861,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+112009861,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+113009861,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+114009861,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+115009861,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+116009861,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+117009861,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+118009861,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,986,with Charlson Comorbidity Index (cut off 1),TwS
+101009871,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+102009871,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+103009871,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+104009871,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+105009871,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+106009871,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+107009871,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+108009871,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+109009871,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+110009871,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+111009871,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+112009871,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+113009871,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+114009871,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+115009871,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+116009871,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+117009871,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+118009871,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,987,with Charlson Comorbidity Index (cut off >=2),TwS
+101009991,101,[PIONEER 2.0] Target Cohort 1.0_ mHSPC FINAL,999,with Psychological distress,TwS
+102009991,102,[PIONEER 2.0] Target Cohort 1.1_mHSPC (synchronous) FINAL,999,with Psychological distress,TwS
+103009991,103,[PIONEER 2.0] Target Cohort 1.2_metachronous mHSPC FINAL,999,with Psychological distress,TwS
+104009991,104,[PIONEER 2.0] Target Cohort 2.0_mHSPC treated FINAL,999,with Psychological distress,TwS
+105009991,105,[PIONEER 2.0] Target Cohort 2.1_mHSPC treated (synchronous) FINAL,999,with Psychological distress,TwS
+106009991,106,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC treated FINAL,999,with Psychological distress,TwS
+107009991,107,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT only treated FINAL,999,with Psychological distress,TwS
+108009991,108,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA treated FINAL,999,with Psychological distress,TwS
+109009991,109,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+Chemo treated FINAL,999,with Psychological distress,TwS
+110009991,110,[PIONEER 2.0] Target Cohort 2.0_mHSPC ADT+ARTA+Chemo treated FINAL,999,with Psychological distress,TwS
+111009991,111,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT only treated (synchronous) FINAL,999,with Psychological distress,TwS
+112009991,112,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA treated (synchronous) FINAL,999,with Psychological distress,TwS
+113009991,113,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+Chemo treated (synchronous) FINAL,999,with Psychological distress,TwS
+114009991,114,[PIONEER 2.0] Target Cohort 2.1_mHSPC ADT+ARTA+Chemo treated (synchronous) FINAL,999,with Psychological distress,TwS
+115009991,115,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT only treated FINAL,999,with Psychological distress,TwS
+116009991,116,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+Chemo treated FINAL,999,with Psychological distress,TwS
+117009991,117,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA treated FINAL,999,with Psychological distress,TwS
+118009991,118,[PIONEER 2.0] Target Cohort 2.2_metachronous mHSPC ADT+ARTA+Chemo treated FINAL,999,with Psychological distress,TwS

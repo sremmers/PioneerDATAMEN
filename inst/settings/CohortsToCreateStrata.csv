@@ -1,0 +1,22 @@
+name,atlasName,atlasId,cohortId
+985,Charlson Comorbidity Index (cut off 0),1,985
+986,Charlson Comorbidity Index (cut off 1),2,986
+987,Charlson Comorbidity Index (cut off >=2),3,987
+422,Performance Status ECOG=1,4,422
+283,Performance Status ECOG=0,6,283
+284,Hypertension,7,284
+286,Cardiovascular Disease Event,8,286
+287,Diabetes 2,9,287
+288,Venous thromboembolic (pulmonary embolism and deep vein thrombosis),10,288 
+289,Anxiety,11,289
+310,Fatique or malaise,12,310
+403,Osteopenia and Osteoporosis,13,403
+407,Anemia,14,407
+797,Hepatotoxicity/Liver failure,15,797
+808,Dementia,16,808
+810,Memory impairment,17,810
+842,Depression,18,842
+851,Respiratory distress,19,851
+889,Kidney failure,21,889
+984,BMI above 30,22,984
+999,Psychological distress,23,999

@@ -1,0 +1,10 @@
+generationScript,name,lbOperator,lbStrataValue,ubOperator,ubStrataValue,cohortId
+strata/StratifyByAge.sql,Age < 60,>,0,<,60,1
+strata/StratifyByAge.sql,Age 60 - 69,>=,60,<=,69,2
+strata/StratifyByAge.sql,Age 70 - 79,>=,70,<=,79,3
+strata/StratifyByAge.sql,Age >= 80,>=,80,<,99999,4
+strata/StratifyByIndex.sql,Index year = 2016,>=,'2016-01-01',<=,'2016-12-31',5
+strata/StratifyByIndex.sql,Index year = 2017,>=,'2017-01-01',<=,'2017-12-31',6
+strata/StratifyByIndex.sql,Index year = 2018,>=,'2018-01-01',<=,'2018-12-31',7
+strata/StratifyByIndex.sql,Index year = 2019,>=,'2019-01-01',<=,'2019-12-31',8
+strata/StratifyByIndex.sql,Index year = 2020,>=,'2020-01-01',<=,'2020-12-31',9
