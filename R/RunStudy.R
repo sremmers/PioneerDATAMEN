@@ -59,13 +59,6 @@ runStudy <- function(connectionDetails = NULL,
   
   andrData <- Andromeda::andromeda()
 
-  DatabaseConnector::executeSql(connection,"ALTER SESSION SET JDBC_QUERY_RESULT_FORMAT='JSON'")
-  DatabaseConnector::executeSql(connection,'USE ROLE EFKZQ;')
-  DatabaseConnector::executeSql(connection,'USE SECONDARY ROLES ALL;')
-  DatabaseConnector::executeSql(connection,'USE WAREHOUSE OMOP_WH;')
-  DatabaseConnector::executeSql(connection,"alter session set DATE_INPUT_FORMAT='YYYY-MM-DD'");
-  
-  
   # Instantiate cohorts -----------------------------------------------------------------------
   cohorts <- getCohortsToCreate()
   # Remove any cohorts that are to be excluded
