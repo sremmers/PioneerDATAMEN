@@ -11,6 +11,3 @@ PIONEER metastatic Hormone-Sensitive Prostate Cancer treatment characterization
 - Publications: **-**
 - Results explorer: **-**
 
-The aim of this study is to characterize the metastatic Hormone-Sensitive Prostate Cancer (mHSPC) patients and their treatment plans. The impact of choice of medications on the clinical outcomes (progression, death) will be assessed.
-
-This study is undertaken by the 2022 prostate cancer studyathon of the [IMI PIONEER](https://prostate-pioneer.eu) project.
