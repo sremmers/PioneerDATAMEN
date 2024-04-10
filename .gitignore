@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+*.jar
+Docker/Dockerfile
+Docker/pioneer_datamen.env
+

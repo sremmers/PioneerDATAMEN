@@ -1100,6 +1100,16 @@
 			"RemoteRepo" : "OhdsiSharing",
 			"RemoteUsername" : "ohdsi",
 			"RemoteRef" : "v0.2.2"
-		}
+		},
+		"PioneerDATAMEN" : {
+      "Package" : "PioneerDATAMEN",
+      "Version" : "1.0",
+      "Source" : "GitHub",
+      "RemoteType" : "github",
+      "RemoteHost" : "api.github.com",
+      "RemoteRepo" : "PioneerDATAMEN",
+      "RemoteUsername" : "sremmers",
+      "RemoteRef" : "main"
+    }
 	}
 }
