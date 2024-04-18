@@ -224,12 +224,12 @@ WHERE cohort_definition_id IN (@treatment_cohort_ids)
   AND cohort_end_date >= drug_exposure_start_date
   AND cohort_start_date <= drug_exposure_start_date;
 
-/*INSERT INTO @cohort_database_schema.adt_proc 
+INSERT INTO @cohort_database_schema.adt_proc 
 SELECT cohort_definition_id, person_id, codeset_tag, 
-       dateadd(day, 184, cohort_start_date) as drug_exposure_start_date, cohort_start_date, cohort_end_date
+       dateadd(day, 184, cohort_start_date) AS drug_exposure_start_date, cohort_start_date, cohort_end_date
 FROM  @cohort_database_schema.adt_proc
 WHERE drug_exposure_start_date < dateadd(day, 184, cohort_start_date)
-  AND datediff(day, cohort_start_date, cohort_end_date) >= 184; */
+  AND datediff(day, cohort_start_date, cohort_end_date) >= 184;
 
 INSERT INTO @cohort_database_schema.treatment_tagged
 SELECT * 
